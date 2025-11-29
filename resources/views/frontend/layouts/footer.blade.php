@@ -1,0 +1,72 @@
+<div class="container-fluid bg-dark text-white-50 footer pt-5">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-md-3 wow fadeIn" data-wow-delay="0.1s">
+                    <a href="index.html" class="d-inline-block mb-3">
+                         <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
+                    </a>
+                    <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi aperiam fuga adipisci 
+                        eos quod quasi? Molestiae atque dolore tempora debitis accusantium dolorum repellendus, blanditiis 
+                        in dignissimos 
+                    </p>
+                </div>
+                
+                <div class="col-md-3 wow fadeIn" data-wow-delay="0.5s">
+                    <h5 class="text-white mb-4">Quick Link</h5>
+                    <a class="btn btn-link" href="">About Us</a>
+                    <a class="btn btn-link" href="">Contact Us</a>
+                    <a class="btn btn-link" href="">Blogs</a>
+                    <a class="btn btn-link" href="">Privacy Policy</a>
+                    <a class="btn btn-link" href="">Terms & Condition</a>
+                    <a class="btn btn-link" href="">Site Map</a>
+                    <a class="btn btn-link" href="">Career</a>
+                </div>
+                <div class="col-md-3 wow fadeIn" data-wow-delay="0.7s">
+                    <h5 class="text-white mb-4">Our Services</h5>
+                    <a class="btn btn-link" href="">Web Design & Development</a>
+                    <a class="btn btn-link" href="">Digital Marketing</a>
+                    <a class="btn btn-link" href="">Project Planning</a>
+                    <a class="btn btn-link" href="">Software</a>
+                    <a class="btn btn-link" href="">Cloud Telephony</a>
+                </div>
+                <div class="col-md-3 wow fadeIn" data-wow-delay="0.3s">
+                    <h5 class="text-white mb-4">Get In Touch</h5>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Patna, Bihar, India (800001)</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+91 1234567890</p>
+                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <div class="d-flex pt-2">
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.threads.com/@clickkartdigital"><i class="fa-brands fa-threads"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.facebook.com/clickkartdigitala"><i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.instagram.com/clickkartdigital/"><i class="fab fa-instagram"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.linkedin.com/company/clickkartdigital"><i class="fab fa-linkedin-in"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container wow fadeIn" data-wow-delay="0.1s">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        &copy; <a class="border-bottom" href="https://clickkartdigital.com/">
+                                Click Kart Digital</a> | All Right Reserved. 
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <div class="footer-menu">
+                            <a href="">Home</a>
+                            <a href="">Contact</a>
+                            <a href="">Help</a>
+                            <a href="">FAQs</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

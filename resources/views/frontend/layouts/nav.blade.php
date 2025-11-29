@@ -1,0 +1,106 @@
+<div class="container-fluid sticky-top">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light border-bottom border-2 border-white">
+                <a href="index.php" class="navbar-brand">
+                    <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
+                </a>
+                <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
+                    data-bs-target="#navbarCollapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto">
+                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="about.html" class="nav-item nav-link">About</a>
+
+                        <div class="nav-item dropdown mega-dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                            <div class="dropdown-menu mega-menu0 bg-light p-4 mt-2">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                         <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Marketing</h6>
+                                            <a href="seo.php" class="dropdown-item">SEO</a>
+                                            <a href="social-media.php" class="dropdown-item">Social Media</a>
+                                            <a href="email-campaigns.php" class="dropdown-item">Email Campaigns</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Design Services</h6>
+                                            <a href="web-design.php" class="dropdown-item">Web Design</a>
+                                            <a href="ui-ux-design.php" class="dropdown-item">UI/UX Design</a>
+                                            <a href="graphic-design.php" class="dropdown-item">Graphic Design</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Development</h6>
+                                            <a href="web-dev.php" class="dropdown-item">Web Development</a>
+                                            <a href="mob-app.php" class="dropdown-item">Mobile Apps</a>
+                                            <a href="custom-soft.php" class="dropdown-item">Custom Software</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="nav-item dropdown mega-dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technologies</a>
+                            <div class="dropdown-menu mega-menu1 bg-light p-4 mt-2">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                         <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Marketing</h6>
+                                            <a href="#" class="dropdown-item">SEO</a>
+                                            <a href="#" class="dropdown-item">Social Media</a>
+                                            <a href="#" class="dropdown-item">Email Campaigns</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Design Services</h6>
+                                            <a href="#" class="dropdown-item">Web Design</a>
+                                            <a href="#" class="dropdown-item">UI/UX Design</a>
+                                            <a href="#" class="dropdown-item">Graphic Design</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Development</h6>
+                                            <a href="#" class="dropdown-item">Web Development</a>
+                                            <a href="#" class="dropdown-item">Mobile Apps</a>
+                                            <a href="#" class="dropdown-item">Custom Software</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="nav-item dropdown mega-dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
+                            <div class="dropdown-menu mega-menu2 bg-light p-4 mt-2">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                         <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Marketing</h6>
+                                            <a href="#" class="dropdown-item">SEO</a>
+                                            <a href="#" class="dropdown-item">Social Media</a>
+                                            <a href="#" class="dropdown-item">Email Campaigns</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Design Services</h6>
+                                            <a href="#" class="dropdown-item">Web Design</a>
+                                            <a href="#" class="dropdown-item">UI/UX Design</a>
+                                            <a href="#" class="dropdown-item">Graphic Design</a>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Development</h6>
+                                            <a href="#" class="dropdown-item">Web Development</a>
+                                            <a href="#" class="dropdown-item">Mobile Apps</a>
+                                            <a href="#" class="dropdown-item">Custom Software</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <a href="project.html" class="nav-item nav-link">Pricing</a>
+                        <a href="contact.html" class="btn btn-light rounded-pill ms-2">Get in Touch</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
