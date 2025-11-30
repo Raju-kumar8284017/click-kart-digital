@@ -10,7 +10,7 @@
 <!-- What We Do Section End -->
 
 <!-- Chosen By Leaders Section -->
-    @include('frontend.pages.home.section.choosen')
+    @include('frontend.common.choosen')
 <!-- Chosen By Leaders Section End -->
 
 <!-- Brand With Click kart -->
@@ -18,7 +18,7 @@
 <!-- Brand With Click kart End-->
 
 <!-- Award-Winning Digital Marketing Agency -->
-    @include('frontend.pages.home.section.award')
+    @include('frontend.common.award')
 <!-- Award-Winning Digital Marketing Agency End-->
 
 <!-- Why Click Kart -->
@@ -26,11 +26,11 @@
 <!-- Why Click Kart End-->
 
 <!-- Certification -->
-    @include('frontend.pages.home.section.certification')
+    @include('frontend.common.certification')
 <!-- Certification End-->
 
 <!-- Testimonial Section -->
-    @include('frontend.pages.home.section.testimonial')
+    @include('frontend.common.testimonial')
 <!-- Testimonial Section End-->
 
 <!-- Get In Touch Section -->
@@ -38,6 +38,6 @@
 <!-- Get In Touch Section End-->
 
 <!-- Build Future Together Section -->
-    @include('frontend.pages.home.section.future')
+    @include('frontend.common.future')
 <!-- Build Future Together Section End-->
 @endsection

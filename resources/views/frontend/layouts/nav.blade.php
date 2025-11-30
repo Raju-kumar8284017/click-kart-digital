@@ -1,7 +1,7 @@
 <div class="container-fluid sticky-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light border-bottom border-2 border-white">
-                <a href="index.php" class="navbar-brand">
+                <a href="{{ route('home.index') }}" class="navbar-brand">
                     <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
@@ -10,7 +10,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
-                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="{{ route('home.index') }}" class="nav-item nav-link active">Home</a>
                         <a href="about.html" class="nav-item nav-link">About</a>
 
                         <div class="nav-item dropdown mega-dropdown">
@@ -34,7 +34,7 @@
                                             <h6 class="text-uppercase mb-3">Development</h6>
                                             <a href="web-dev.php" class="dropdown-item">Web Development</a>
                                             <a href="mob-app.php" class="dropdown-item">Mobile Apps</a>
-                                            <a href="custom-soft.php" class="dropdown-item">Custom Software</a>
+                                            <a href="{{ route('services.custom-software.index') }}" class="dropdown-item">Custom Software</a>
                                         </div>
                                     </div>
                                 </div>
