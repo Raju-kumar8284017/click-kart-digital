@@ -15,7 +15,7 @@
         </div>
 
     <!--counter-->
-        @include('frontend.pages.home.section.counter')
+        @include('frontend.common.counter')
     <!--counter end-->
     
     </div>
