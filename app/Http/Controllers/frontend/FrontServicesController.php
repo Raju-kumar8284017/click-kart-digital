@@ -31,4 +31,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.seo.index');
     }
+
+    public function socialMedia()
+    {
+        return view('frontend.pages.services.social-media.index');
+    }
 }

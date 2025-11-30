@@ -21,7 +21,7 @@
                                          <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3">Marketing</h6>
                                             <a href="{{ route('services.seo.index') }}" class="dropdown-item">SEO</a>
-                                            <a href="social-media.php" class="dropdown-item">Social Media</a>
+                                            <a href="{{ route('services.social-media.index') }}" class="dropdown-item">Social Media</a>
                                             <a href="{{ route('services.email-campaign.index') }}" class="dropdown-item">Email Campaigns</a>
                                         </div>
                                         <div class="col-md-4">
