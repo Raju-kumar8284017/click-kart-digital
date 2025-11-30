@@ -26,4 +26,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.mobile-app.index');
     }
+
+    public function seo()
+    {
+        return view('frontend.pages.services.seo.index');
+    }
 }

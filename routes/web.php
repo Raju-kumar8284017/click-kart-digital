@@ -11,3 +11,4 @@ Route::get('/services/custom-software', [FrontServicesController::class, 'index'
 Route::get('/services/email-campaign', [FrontServicesController::class, 'emailCampaign'])->name('services.email-campaign.index');
 Route::get('/services/graphic-design', [FrontServicesController::class, 'graphicDesign'])->name('services.graphic-design.index');
 Route::get('/services/mobile-app', [FrontServicesController::class, 'mobApp'])->name('services.mobile-app.index');
+Route::get('/services/seo', [FrontServicesController::class, 'seo'])->name('services.seo.index');
