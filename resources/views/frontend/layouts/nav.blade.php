@@ -63,7 +63,7 @@
                                         <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3"></h6>
                                             <a href="#" class="dropdown-item">Fashion & Beauty</a>
-                                            <a href="#" class="dropdown-item">E-commerce</a>
+                                            <a href="{{ route('industries.e-commerce.index') }}" class="dropdown-item">E-commerce</a>
                                             <a href="#" class="dropdown-item">Corporate</a>
                                         </div>
                                     </div>

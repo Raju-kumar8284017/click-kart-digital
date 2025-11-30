@@ -2,9 +2,11 @@
 
 use App\Http\Controllers\frontend\FrontAboutController;
 use App\Http\Controllers\frontend\FrontHomeController;
+use App\Http\Controllers\frontend\FrontIndustriesController;
 use App\Http\Controllers\frontend\FrontServicesController;
 use App\Http\Controllers\frontend\FrontTechnologiesController;
 use Illuminate\Support\Facades\Route;
+
 
 
 
@@ -24,4 +26,8 @@ Route::prefix('services')->name('services.')->group(function () {
     Route::get('/ui-ux-design', [FrontServicesController::class, 'uiUxDesign'])->name('ui-ux-design.index');
     Route::get('/web-design', [FrontServicesController::class, 'webDesign'])->name('web-design.index');
     Route::get('/web-dev', [FrontServicesController::class, 'webDev'])->name('web-dev.index');
+});
+
+Route::prefix('industries')->name('industries.')->group(function () {
+    Route::get('/e-commerce', [FrontIndustriesController::class, 'eCommerce'])->name('e-commerce.index');
 });
