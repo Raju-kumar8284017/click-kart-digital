@@ -26,7 +26,7 @@
             <p class="sub-head-sm" style="color:#555;">Reach Out Through Any Of These Channels</p>
 
             <div class="d-flex align-items-start mb-3">
-                <i class="bi bi-geo-alt fs-3 me-3" style="color:#007bff;"></i>
+                <i class="bi bi-geo-alt fs-3 me-3 text-secondary"></i>
                 <p class="mb-0" style="color:#444;">
                 NK Studio Building, 2nd Floor, Opposite Gravity Mall,  
                 Kankarbagh Main Road, Patna, Bihar 800020
@@ -34,21 +34,21 @@
             </div>
 
             <div class="d-flex align-items-start mb-3">
-                <i class="bi bi-telephone fs-3 me-3" style="color:#007bff;"></i>
+                <i class="bi bi-telephone fs-3 me-3 text-secondary"></i>
                 <a href="tel:9155583376" class="mb-0 call-link" style="color:#444;">
                 +91 9155583376
                 </a>
             </div>
 
             <div class="d-flex align-items-start mb-3">
-                <i class="bi bi-envelope fs-3 me-3" style="color:#007bff;"></i>
+                <i class="bi bi-envelope fs-3 me-3 text-secondary"></i>
                 <a href="mailto:Info@Clickkartdigital.Com" class="mb-0 call-link" style="color:#444;">
                 Info@Clickkartdigital.Com
                 </a>
             </div>
 
             <div class="d-flex align-items-start mb-3">
-                <i class="bi bi-globe fs-3 me-3" style="color:#007bff;"></i>
+                <i class="bi bi-globe fs-3 me-3 text-secondary"></i>
                 <p class="mb-0" style="color:#444;">www.clickkartdigital.com</p>
             </div>
 
@@ -82,7 +82,7 @@
             <h3 class="fw-bold text-head head-sm">Send A Message</h3>
             <p class="text-muted">Fill Out The Form Below And We’ll Get Back To You Soon</p>
 
-            
+
                 @include('frontend.common.contact-form')
 
 
