@@ -16,4 +16,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.email-campaign.index');
     }
+
+    public function graphicDesign()
+    {
+        return view('frontend.pages.services.graphic-design.index');
+    }
 }

@@ -28,7 +28,7 @@
                                             <h6 class="text-uppercase mb-3">Design Services</h6>
                                             <a href="web-design.php" class="dropdown-item">Web Design</a>
                                             <a href="ui-ux-design.php" class="dropdown-item">UI/UX Design</a>
-                                            <a href="graphic-design.php" class="dropdown-item">Graphic Design</a>
+                                            <a href="{{ route('services.graphic-design.index') }}" class="dropdown-item">Graphic Design</a>
                                         </div>
                                         <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3">Development</h6>

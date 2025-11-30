@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="text-center mx-auto pb-1 wow fadeInUp" data-wow-delay="0.2s">
-                            <h4 class="text-uppercase text-head head-sm pt-5">Inculcate Email Campaigns Into Marketing</h4>
+                            <h4 class="text-uppercase text-head head-sm pt-5">Inculcate Graphic Design Into Marketing</h4>
                             <p class="sub-head sub-head-sm mb-3">
                                 It Doesn't Matter If You Run A Small Local Shop Or A Big National Company. Social Media Is More Than A Trend, 
                                 It Is An Essential Piece Of Your Business Marketing Strategy.
