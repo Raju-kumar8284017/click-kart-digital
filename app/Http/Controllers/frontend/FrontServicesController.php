@@ -21,4 +21,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.graphic-design.index');
     }
+
+    public function mobApp()
+    {
+        return view('frontend.pages.services.mobile-app.index');
+    }
 }
