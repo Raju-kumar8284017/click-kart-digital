@@ -21,6 +21,7 @@ Route::get('/about-us', [FrontAboutController::class, 'index'])->name('about.ind
 Route::get('/technologies', [FrontTechnologiesController::class, 'index'])->name('technologies.index');
 Route::get('/pricing', [FrontPriceController::class, 'index'])->name('price.index');
 Route::get('/contact-us', [FrontContactUsController::class, 'index'])->name('contact.index');
+Route::post('/contact-us/send', [FrontContactUsController::class, 'send'])->name('contact.send');
 
 Route::prefix('services')->name('services.')->group(function () {
     Route::get('/custom-software', [FrontServicesController::class, 'index'])->name('custom-software.index');

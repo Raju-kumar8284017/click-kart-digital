@@ -17,22 +17,22 @@
 
           <div class="d-flex align-items-start mb-3">
             <i class="bi bi-geo-alt fs-3 me-3" style="color:#007bff;"></i>
-            <p class="mb-0" style="color:#444;">Muzaffarpur, Patna, Bihar, India</p>
+            <p class="mb-0" style="color:#444;">Patna, Bihar, India</p>
           </div>
 
           <div class="d-flex align-items-start mb-3">
             <i class="bi bi-telephone fs-3 me-3" style="color:#007bff;"></i>
-            <p class="mb-0" style="color:#444;">+91 9876543210</p>
+            <p class="mb-0" style="color:#444;">+91 7061458916</p>
           </div>
 
           <div class="d-flex align-items-start mb-3">
             <i class="bi bi-envelope fs-3 me-3" style="color:#007bff;"></i>
-            <p class="mb-0" style="color:#444;">info@aimdestiny.com</p>
+            <p class="mb-0" style="color:#444;">info@clickkartdigital.com</p>
           </div>
 
           <div class="d-flex align-items-start">
             <i class="bi bi-globe fs-3 me-3" style="color:#007bff;"></i>
-            <p class="mb-0" style="color:#444;">www.aimdestiny.com</p>
+            <p class="mb-0" style="color:#444;">www.clickkartdigital.com</p>
           </div>
         </div>
       </div>
@@ -40,33 +40,36 @@
       <!-- Contact Form -->
       <div class="col-lg-7">
         <div class="p-4 shadow rounded bg-white">
-          <form>
+          <form action="{{ route('contact.send') }}" method="POST">
+            @csrf
             <div class="row">
-              <div class="col-md-6 mb-3">
-                <label class="form-label fw-semibold" style="color:#222;">Full Name</label>
-                <input type="text" class="form-control" placeholder="Your name">
-              </div>
+                <div class="col-md-6 mb-3">
+                    <label class="form-label fw-semibold" style="color:#222;">Full Name</label>
+                    <input type="text" name="name" class="form-control" placeholder="Your name" required>
+                </div>
 
-              <div class="col-md-6 mb-3">
-                <label class="form-label fw-semibold" style="color:#222;">Email</label>
-                <input type="email" class="form-control" placeholder="Your email">
-              </div>
+                <div class="col-md-6 mb-3">
+                    <label class="form-label fw-semibold" style="color:#222;">Email</label>
+                    <input type="email" name="email" class="form-control" placeholder="Your email" required>
+                </div>
             </div>
 
             <div class="mb-3">
-              <label class="form-label fw-semibold" style="color:#222;">Phone Number</label>
-              <input type="text" class="form-control" placeholder="Your phone number">
+                <label class="form-label fw-semibold" style="color:#222;">Phone Number</label>
+                <input type="text" name="phone" class="form-control" placeholder="Your phone number" required>
             </div>
 
             <div class="mb-3">
-              <label class="form-label fw-semibold" style="color:#222;">Message</label>
-              <textarea class="form-control" rows="5" placeholder="Write your message..."></textarea>
+                <label class="form-label fw-semibold" style="color:#222;">Message</label>
+                <textarea name="message" class="form-control" rows="5"
+                    placeholder="Write your message..." required></textarea>
             </div>
 
             <button class="btn btn-primary px-4 py-2 fw-bold">
-              Send Message
+                Send Message
             </button>
-          </form>
+        </form>
+
         </div>
       </div>
 
