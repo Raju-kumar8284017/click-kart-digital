@@ -18,6 +18,8 @@
 @include('frontend.pages.services.custom-software.sections.social_media')
 <!--Inculcate Social Media Into Marketing End-->
 
+@include('frontend.common.future')
+
 
 
     
