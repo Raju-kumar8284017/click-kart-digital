@@ -15,7 +15,7 @@
       <!-- Contact Info -->
       <div class="col-lg-5">
         <div class="p-4 shadow rounded bg-white">
-          <h4 class="fw-bold" style="color:#222;">Get in Touch</h4>
+          <h4 class="fw-bold text-head">Get in Touch</h4>
           <p style="color:#555;">We respond within 24 hours.</p>
 
           <div class="d-flex align-items-start mb-3">
