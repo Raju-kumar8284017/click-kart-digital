@@ -10,6 +10,14 @@
 @include('frontend.common.choosen')
 <!--choosen by End-->
 
+<!-- what we do -->
+@include('frontend.pages.services.custom-software.sections.what_we_do')
+<!-- what we do End -->
+
+<!--Inculcate Social Media Into Marketing-->
+@include('frontend.pages.services.custom-software.sections.social_media')
+<!--Inculcate Social Media Into Marketing End-->
+
 
 
     
