@@ -11,4 +11,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.custom-software.index');
     }
+
+    public function emailCampaign()
+    {
+        return view('frontend.pages.services.email-campaign.index');
+    }
 }
