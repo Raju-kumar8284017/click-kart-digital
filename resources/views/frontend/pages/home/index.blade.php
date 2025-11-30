@@ -38,6 +38,6 @@
 <!-- Get In Touch Section End-->
 
 <!-- Build Future Together Section -->
-    {{-- @include('frontend.pages.home.section.future') --}}
+    @include('frontend.pages.home.section.future')
 <!-- Build Future Together Section End-->
 @endsection
