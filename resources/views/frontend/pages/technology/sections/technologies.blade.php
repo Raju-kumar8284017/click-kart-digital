@@ -111,13 +111,13 @@
         <div class="accordion-item mb-3">
             <h2 class="accordion-header" id="headingNode">
                 <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNode" aria-expanded="false" aria-controls="collapseNode">
-                    <img src="{{ asset('font_dist/img/icons/node.png') }}" class="me-3" style="width:50px;">
+                    <img src="{{ asset('font_dist/img/icons/node.svg') }}" class="me-3" style="width:50px;">
                     <span>Node.js</span>
                 </button>
             </h2>
             <div id="collapseNode" class="accordion-collapse collapse" aria-labelledby="headingNode" data-bs-parent="#backendAccordion">
                 <div class="accordion-body d-flex rounded shadow-sm">
-                    <img src="{{ asset('font_dist/img/icons/node.svhhg') }}" class="me-3" style="width:60px;">
+                    <img src="{{ asset('font_dist/img/icons/node.svg') }}" class="me-3" style="width:60px;">
                     <div>
                         <h5>Node.js Backend Development</h5>
                         <p>Real-time, scalable backend apps, APIs, dashboards, and automation platforms with Node.js.</p>
@@ -130,7 +130,7 @@
         <div class="accordion-item mb-3">
             <h2 class="accordion-header" id="headingPython">
                 <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePython" aria-expanded="false" aria-controls="collapsePython">
-                    <img src="{{ asset('font_dist/img/icons/python.png') }}" class="me-3" style="width:50px;">
+                    <img src="{{ asset('font_dist/img/icons/python.svgg') }}" class="me-3" style="width:50px;">
                     <span>Python</span>
                 </button>
             </h2>
