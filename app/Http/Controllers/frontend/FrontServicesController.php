@@ -36,4 +36,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.social-media.index');
     }
+
+    public function uiUxDesign()
+    {
+        return view('frontend.pages.services.ui-ux-design.index');
+    }
 }
