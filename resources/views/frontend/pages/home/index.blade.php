@@ -22,7 +22,7 @@
 <!-- Award-Winning Digital Marketing Agency End-->
 
 <!-- Why Click Kart -->
-    @include('frontend.pages.home.section.why-clickkart')
+    @include('frontend.common.why-clickkart')
 <!-- Why Click Kart End-->
 
 <!-- Certification -->
