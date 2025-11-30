@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="{{ route('home.index') }}" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
+                        <a href="{{ route('about.index') }}" class="nav-item nav-link">About</a>
 
                         <div class="nav-item dropdown mega-dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
@@ -41,33 +41,7 @@
                             </div>
                         </div>
 
-                        <div class="nav-item dropdown mega-dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technologies</a>
-                            <div class="dropdown-menu mega-menu1 bg-light p-4 mt-2">
-                                <div class="container-fluid">
-                                    <div class="row">
-                                         <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Marketing</h6>
-                                            <a href="#" class="dropdown-item">SEO</a>
-                                            <a href="#" class="dropdown-item">Social Media</a>
-                                            <a href="#" class="dropdown-item">Email Campaigns</a>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Design Services</h6>
-                                            <a href="#" class="dropdown-item">Web Design</a>
-                                            <a href="#" class="dropdown-item">UI/UX Design</a>
-                                            <a href="#" class="dropdown-item">Graphic Design</a>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Development</h6>
-                                            <a href="#" class="dropdown-item">Web Development</a>
-                                            <a href="#" class="dropdown-item">Mobile Apps</a>
-                                            <a href="#" class="dropdown-item">Custom Software</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <a href="about.html" class="nav-item nav-link">Technologies</a>
 
                         <div class="nav-item dropdown mega-dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
