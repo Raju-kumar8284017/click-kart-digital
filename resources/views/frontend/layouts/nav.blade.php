@@ -55,11 +55,13 @@
                                             <a href="#" class="dropdown-item">Finance & Banking</a>
                                         </div>
                                         <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3"></h6>
                                             <a href="#" class="dropdown-item">Real Estate</a>
                                             <a href="#" class="dropdown-item">Travel & Hospitality</a>
                                             <a href="#" class="dropdown-item">Food & Restaurants</a>
                                         </div>
                                         <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3"></h6>
                                             <a href="#" class="dropdown-item">Fashion & Beauty</a>
                                             <a href="#" class="dropdown-item">E-commerce</a>
                                             <a href="#" class="dropdown-item">Corporate</a>
