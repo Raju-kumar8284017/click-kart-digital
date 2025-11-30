@@ -1,11 +1,14 @@
 <!-- CONTACT US SECTION -->
 <section class="py-5" style="background:#f8f9fa;">
   <div class="container">
-    <h2 class="text-center fw-bold mb-4" style="color:#222;">Contact Us</h2>
-    <p class="text-center mb-5" style="color:#555;">
-      Have a project in mind or need assistance? Our team is here to help you.
-      Reach out through the form below or connect using our contact details.
-    </p>
+    <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+        <h2 class="text-uppercase text-head pt-5">Contact Us</h2>
+            <p class="sub-head mb-3">
+                Have a project in mind or need assistance? Our team is here to help you.
+                Reach out through the form below or connect using our contact details.
+            </p>
+    </div>
+    
 
     <div class="row g-4">
 
