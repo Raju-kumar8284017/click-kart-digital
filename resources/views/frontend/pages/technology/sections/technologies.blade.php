@@ -1,6 +1,6 @@
 <div class="container py-5">
 
-    <h2 class="text-center fw-bold mb-5">Technologies We Work With</h2>
+    <h2 class="text-center fw-bold mb-5 wave-text">Technologies We Work With</h2>
 
     <!-- FRONTEND TECH -->
     <h3 class="mb-3">Frontend Technologies</h3>
