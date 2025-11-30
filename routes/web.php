@@ -30,4 +30,12 @@ Route::prefix('services')->name('services.')->group(function () {
 
 Route::prefix('industries')->name('industries.')->group(function () {
     Route::get('/e-commerce', [FrontIndustriesController::class, 'eCommerce'])->name('e-commerce.index');
+    Route::get('/corporate', [FrontIndustriesController::class, 'corporate'])->name('corporate.index');
+    Route::get('/education', [FrontIndustriesController::class, 'education'])->name('education.index');
+    Route::get('/fashion', [FrontIndustriesController::class, 'fashion'])->name('fashion.index');
+    Route::get('/finance', [FrontIndustriesController::class, 'finance'])->name('finance.index');
+    Route::get('/food', [FrontIndustriesController::class, 'food'])->name('food.index');
+    Route::get('/healthcare', [FrontIndustriesController::class, 'healthcare'])->name('healthcare.index');
+    Route::get('/real-estate', [FrontIndustriesController::class, 'realEstate'])->name('real-estate.index');
+    Route::get('/travel', [FrontIndustriesController::class, 'travel'])->name('travel.index');
 });

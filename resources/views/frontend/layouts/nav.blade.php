@@ -50,21 +50,21 @@
                                     <div class="row">
                                          <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3">Industries we serve</h6>
-                                            <a href="#" class="dropdown-item">Healthcare</a>
-                                            <a href="#" class="dropdown-item">Education</a>
-                                            <a href="#" class="dropdown-item">Finance & Banking</a>
+                                            <a href="{{ route('industries.healthcare.index') }}" class="dropdown-item">Healthcare</a>
+                                            <a href="{{ route('industries.education.index') }}" class="dropdown-item">Education</a>
+                                            <a href="{{ route('industries.finance.index') }}" class="dropdown-item">Finance & Banking</a>
                                         </div>
                                         <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3"></h6>
-                                            <a href="#" class="dropdown-item">Real Estate</a>
-                                            <a href="#" class="dropdown-item">Travel & Hospitality</a>
-                                            <a href="#" class="dropdown-item">Food & Restaurants</a>
+                                            <a href="{{ route('industries.real-estate.index') }}" class="dropdown-item">Real Estate</a>
+                                            <a href="{{ route('industries.travel.index') }}" class="dropdown-item">Travel & Hospitality</a>
+                                            <a href="{{ route('industries.food.index') }}" class="dropdown-item">Food & Restaurants</a>
                                         </div>
                                         <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3"></h6>
-                                            <a href="#" class="dropdown-item">Fashion & Beauty</a>
+                                            <a href="{{ route('industries.fashion.index') }}" class="dropdown-item">Fashion & Beauty</a>
                                             <a href="{{ route('industries.e-commerce.index') }}" class="dropdown-item">E-commerce</a>
-                                            <a href="#" class="dropdown-item">Corporate</a>
+                                            <a href="{{ route('industries.corporate.index') }}" class="dropdown-item">Corporate</a>
                                         </div>
                                     </div>
                                 </div>
