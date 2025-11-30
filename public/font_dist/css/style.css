@@ -688,40 +688,35 @@ select:focus {
 
 /*=============== technologies =================*/
 
-    .tech-icon {
-        cursor: pointer;
-        transition: transform .3s ease, box-shadow .3s ease;
-        padding: 15px;
-        border-radius: 12px;
-    }
 
-    .tech-icon:hover {
-        transform: translateY(-8px);
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
-    }
-
-    .icon-img {
-        width: 55px;
-        transition: transform .4s ease;
-        animation: floatIcon 3s infinite ease-in-out;
-    }
-
-    .tech-icon:hover .icon-img {
-        transform: rotate(10deg) scale(1.05);
-    }
-
-    @keyframes floatIcon {
-        0% { transform: translateY(0); }
-        50% { transform: translateY(-8px); }
-        100% { transform: translateY(0); }
-    }
-
-    .tech-info .card {
-        animation: fadeIn .4s linear;
-    }
-
-    @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(15px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-
+.tech-icon {
+    cursor: pointer;
+    transition: transform .3s ease, box-shadow .3s ease;
+    padding: 15px;
+    border-radius: 12px;
+}
+.tech-icon:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+.icon-img {
+    width: 55px;
+    transition: transform .4s ease;
+    animation: floatIcon 3s infinite ease-in-out;
+}
+.tech-icon:hover .icon-img {
+    transform: rotate(10deg) scale(1.05);
+}
+@keyframes floatIcon {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+    100% { transform: translateY(0); }
+}
+.tech-info .info-box {
+    animation: fadeIn .4s linear;
+    background: rgba(255,255,255,0.05);
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
