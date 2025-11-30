@@ -71,8 +71,8 @@
                             </div>
                         </div>
 
-                        <a href="project.html" class="nav-item nav-link">Pricing</a>
-                        <a href="contact.html" class="btn btn-light rounded-pill ms-2">Get in Touch</a>
+                        <a href="{{ route('price.index') }}" class="nav-item nav-link">Pricing</a>
+                        <a href="{{ route('contact.index') }}" class="btn btn-light rounded-pill ms-2">Get in Touch</a>
                     </div>
                 </div>
             </nav>

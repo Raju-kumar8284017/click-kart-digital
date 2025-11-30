@@ -1,8 +1,10 @@
 <?php
 
 use App\Http\Controllers\frontend\FrontAboutController;
+use App\Http\Controllers\frontend\FrontContactUsController;
 use App\Http\Controllers\frontend\FrontHomeController;
 use App\Http\Controllers\frontend\FrontIndustriesController;
+use App\Http\Controllers\frontend\FrontPriceController;
 use App\Http\Controllers\frontend\FrontServicesController;
 use App\Http\Controllers\frontend\FrontTechnologiesController;
 use Illuminate\Support\Facades\Route;
@@ -12,9 +14,13 @@ use Illuminate\Support\Facades\Route;
 
 
 
+
+
 Route::get('/', [FrontHomeController::class, 'index'])->name('home.index');
 Route::get('/about-us', [FrontAboutController::class, 'index'])->name('about.index');
 Route::get('/technologies', [FrontTechnologiesController::class, 'index'])->name('technologies.index');
+Route::get('/pricing', [FrontPriceController::class, 'index'])->name('price.index');
+Route::get('/contact-us', [FrontContactUsController::class, 'index'])->name('contact.index');
 
 Route::prefix('services')->name('services.')->group(function () {
     Route::get('/custom-software', [FrontServicesController::class, 'index'])->name('custom-software.index');
