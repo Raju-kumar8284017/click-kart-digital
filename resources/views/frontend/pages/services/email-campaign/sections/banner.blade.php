@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-6">
                 <div class="animated slideInDown">
-                    <img src="assets/img/email-campaigns.png" class="img-fluid" alt="">
+                    <img src="{{ asset('font_dist/img/email-campaigns.png') }}" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
