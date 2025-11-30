@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center d-flex justify-content-center align-items-center">
-                <img src="assets/img/Social-Media-marketing.png" class="img-fluid"alt="">
+                <img src="{{ asset('font_dist/img/Social-Media-marketing.png') }}" class="img-fluid"alt="">
             </div>
             <div class="col-md-6 d-flex justify-content-center align-items-center">
                 <div class="row">
