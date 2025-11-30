@@ -1,7 +1,9 @@
 <div class="container py-5">
 
-    <h2 class="text-uppercase text-head pt-5">Technologies We Work With</h2>
-    
+    <div class="text-center mx-auto pb-3 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h2 class="text-uppercase text-head pt-5">Technologies We Work With</h2>
+    </div>
+
     <!-- FRONTEND TECH -->
     <h3 class="mb-3">Frontend Technologies</h3>
     <div class="accordion mb-5" id="frontendAccordion">
