@@ -46,4 +46,9 @@ class FrontServicesController extends Controller
     {
         return view('frontend.pages.services.web-design.index');
     }
+
+    public function webDev()
+    {
+        return view('frontend.pages.services.web-dev.index');
+    }
 }

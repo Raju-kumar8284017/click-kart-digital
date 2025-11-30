@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="col-md-4">
                                             <h6 class="text-uppercase mb-3">Development</h6>
-                                            <a href="web-dev.php" class="dropdown-item">Web Development</a>
+                                            <a href="{{ route('services.web-dev.index') }}" class="dropdown-item">Web Development</a>
                                             <a href="{{ route('services.mobile-app.index') }}" class="dropdown-item">Mobile Apps</a>
                                             <a href="{{ route('services.custom-software.index') }}" class="dropdown-item">Custom Software</a>
                                         </div>

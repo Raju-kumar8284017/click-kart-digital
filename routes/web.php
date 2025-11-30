@@ -17,4 +17,5 @@ Route::prefix('services')->name('services.')->group(function () {
     Route::get('/social-media', [FrontServicesController::class, 'socialMedia'])->name('social-media.index');
     Route::get('/ui-ux-design', [FrontServicesController::class, 'uiUxDesign'])->name('ui-ux-design.index');
     Route::get('/web-design', [FrontServicesController::class, 'webDesign'])->name('web-design.index');
+    Route::get('/web-dev', [FrontServicesController::class, 'webDev'])->name('web-dev.index');
 });
