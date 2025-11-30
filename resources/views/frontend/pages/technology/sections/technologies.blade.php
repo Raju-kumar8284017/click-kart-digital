@@ -1,7 +1,7 @@
 <div class="container py-5">
 
     <div class="text-center mx-auto pb-3 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-            <h2 class="text-uppercase text-head pt-5">Technologies We Work With</h2>
+        <h2 class="text-uppercase text-head pt-5">Technologies We Work With</h2>
     </div>
 
     <!-- FRONTEND TECH -->
@@ -84,11 +84,30 @@
             </div>
         </div>
 
+        <!-- Flutter -->
+        <div class="accordion-item mb-3">
+            <h2 class="accordion-header" id="headingFlutter">
+                <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFlutter" aria-expanded="false" aria-controls="collapseFlutter">
+                    <img src="{{ asset('font_dist/img/icons/flutter.png') }}" class="me-3" style="width:50px;">
+                    <span>Flutter</span>
+                </button>
+            </h2>
+            <div id="collapseFlutter" class="accordion-collapse collapse" aria-labelledby="headingFlutter" data-bs-parent="#frontendAccordion">
+                <div class="accordion-body d-flex rounded shadow-sm">
+                    <img src="{{ asset('font_dist/img/icons/flutter.png') }}" class="me-3" style="width:60px;">
+                    <div>
+                        <h5>Flutter App Development</h5>
+                        <p>Cross-platform mobile apps with one codebase for Android and iOS, smooth animations, and native performance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
     <!-- BACKEND TECH -->
     <h3 class="mb-3">Backend Technologies</h3>
-    <div class="accordion" id="backendAccordion">
+    <div class="accordion mb-5" id="backendAccordion">
 
         <!-- Laravel -->
         <div class="accordion-item mb-3">
@@ -224,6 +243,50 @@
         </div>
 
     </div>
-</div>
 
+    <!-- CMS TECH -->
+    <h3 class="mb-3">CMS Technologies</h3>
+    <div class="accordion" id="cmsAccordion">
+
+        <!-- WordPress -->
+        <div class="accordion-item mb-3">
+            <h2 class="accordion-header" id="headingWP">
+                <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWP" aria-expanded="false" aria-controls="collapseWP">
+                    <img src="{{ asset('font_dist/img/icons/wordpress.svg') }}" class="me-3" style="width:50px;">
+                    <span>WordPress</span>
+                </button>
+            </h2>
+            <div id="collapseWP" class="accordion-collapse collapse" aria-labelledby="headingWP" data-bs-parent="#cmsAccordion">
+                <div class="accordion-body d-flex rounded shadow-sm">
+                    <img src="{{ asset('font_dist/img/icons/wordpress.svg') }}" class="me-3" style="width:60px;">
+                    <div>
+                        <h5>WordPress Development</h5>
+                        <p>Custom themes, plugin development, and SEO-friendly websites or eCommerce stores.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Shopify -->
+        <div class="accordion-item mb-3">
+            <h2 class="accordion-header" id="headingShopify">
+                <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapseShopify" aria-expanded="false" aria-controls="collapseShopify">
+                    <img src="{{ asset('font_dist/img/icons/shopify.svg') }}" class="me-3" style="width:50px;">
+                    <span>Shopify</span>
+                </button>
+            </h2>
+            <div id="collapseShopify" class="accordion-collapse collapse" aria-labelledby="headingShopify" data-bs-parent="#cmsAccordion">
+                <div class="accordion-body d-flex rounded shadow-sm">
+                    <img src="{{ asset('font_dist/img/icons/shopify.svg') }}" class="me-3" style="width:60px;">
+                    <div>
+                        <h5>Shopify Development</h5>
+                        <p>Custom Shopify stores, themes, checkout optimization, product setup, and automation.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
 
