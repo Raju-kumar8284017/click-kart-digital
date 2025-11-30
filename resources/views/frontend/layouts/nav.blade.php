@@ -41,7 +41,7 @@
                             </div>
                         </div>
 
-                        <a href="about.html" class="nav-item nav-link">Technologies</a>
+                        <a href="{{ route('technologies.index') }}" class="nav-item nav-link">Technologies</a>
 
                         <div class="nav-item dropdown mega-dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Industries</a>
