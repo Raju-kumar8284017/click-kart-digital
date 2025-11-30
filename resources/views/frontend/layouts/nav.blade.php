@@ -49,22 +49,19 @@
                                 <div class="container-fluid">
                                     <div class="row">
                                          <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Marketing</h6>
-                                            <a href="#" class="dropdown-item">SEO</a>
-                                            <a href="#" class="dropdown-item">Social Media</a>
-                                            <a href="#" class="dropdown-item">Email Campaigns</a>
+                                            <a href="#" class="dropdown-item">Healthcare</a>
+                                            <a href="#" class="dropdown-item">Education</a>
+                                            <a href="#" class="dropdown-item">Finance & Banking</a>
                                         </div>
                                         <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Design Services</h6>
-                                            <a href="#" class="dropdown-item">Web Design</a>
-                                            <a href="#" class="dropdown-item">UI/UX Design</a>
-                                            <a href="#" class="dropdown-item">Graphic Design</a>
+                                            <a href="#" class="dropdown-item">Real Estate</a>
+                                            <a href="#" class="dropdown-item">Travel & Hospitality</a>
+                                            <a href="#" class="dropdown-item">Food & Restaurants</a>
                                         </div>
                                         <div class="col-md-4">
-                                            <h6 class="text-uppercase mb-3">Development</h6>
-                                            <a href="#" class="dropdown-item">Web Development</a>
-                                            <a href="#" class="dropdown-item">Mobile Apps</a>
-                                            <a href="#" class="dropdown-item">Custom Software</a>
+                                            <a href="#" class="dropdown-item">Fashion & Beauty</a>
+                                            <a href="#" class="dropdown-item">E-commerce</a>
+                                            <a href="#" class="dropdown-item">Corporate</a>
                                         </div>
                                     </div>
                                 </div>
