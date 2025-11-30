@@ -49,6 +49,7 @@
                                 <div class="container-fluid">
                                     <div class="row">
                                          <div class="col-md-4">
+                                            <h6 class="text-uppercase mb-3">Industries we serve</h6>
                                             <a href="#" class="dropdown-item">Healthcare</a>
                                             <a href="#" class="dropdown-item">Education</a>
                                             <a href="#" class="dropdown-item">Finance & Banking</a>
