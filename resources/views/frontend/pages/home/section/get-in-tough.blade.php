@@ -68,44 +68,8 @@
                             </div>
                         </div>
 
-                        <?php 
-                            //include 'mail/mail_status.php'
-                        ?>
-                        <!-- Form -->
-                        <form action="mail/send_mail.php" method="POST">
-                            <div class="row">
-                                <div class="col-md-6 my-2">
-                                    <label class="form-label">Name*</label>
-                                    <input type="text" name="name" class="form-control" placeholder="Enter Your Name" required>
-                                </div>
-                                <div class="col-md-6 my-2">
-                                    <label class="form-label">Email*</label>
-                                    <input type="email" name="email" class="form-control" placeholder="Enter Your Email" required>
-                                </div>
-                            </div>
+                        @include('frontend.common.contact-form')
 
-                            <div class="row">
-                                <div class="col my-2">
-                                    <label class="form-label">Phone Number*</label>
-                                    <input type="text" name="phone" class="form-control" placeholder="Phone Number" required>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col my-2">
-                                    <label class="form-label">Message (Optional)</label>
-                                    <textarea name="message" rows="4" class="form-control" placeholder="Your message"></textarea>
-                                </div>
-                            </div>
-
-                            <div class="form-check mb-1">
-                                <input class="form-check-input" type="checkbox" required>
-                                <label class="form-check-label">
-                                    I Agree To The Terms & Conditions And Privacy Policy
-                                </label>
-                            </div>
-
-                            <button type="submit" class="btn btn-primary w-100 rounded-3">Send Message</button>
-                        </form>
                     </div>
                 </div>
             </div>
