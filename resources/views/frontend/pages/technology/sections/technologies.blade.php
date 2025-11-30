@@ -130,7 +130,7 @@
         <div class="accordion-item mb-3">
             <h2 class="accordion-header" id="headingPython">
                 <button class="accordion-button collapsed d-flex align-items-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePython" aria-expanded="false" aria-controls="collapsePython">
-                    <img src="{{ asset('font_dist/img/icons/python.svgg') }}" class="me-3" style="width:50px;">
+                    <img src="{{ asset('font_dist/img/icons/python.svg') }}" class="me-3" style="width:50px;">
                     <span>Python</span>
                 </button>
             </h2>
