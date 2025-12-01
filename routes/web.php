@@ -10,12 +10,6 @@ use App\Http\Controllers\frontend\FrontTechnologiesController;
 use Illuminate\Support\Facades\Route;
 
 
-
-
-
-
-
-
 Route::get('/', [FrontHomeController::class, 'index'])->name('home.index');
 Route::get('/about-us', [FrontAboutController::class, 'index'])->name('about.index');
 Route::get('/technologies', [FrontTechnologiesController::class, 'index'])->name('technologies.index');
