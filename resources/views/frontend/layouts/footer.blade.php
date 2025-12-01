@@ -2,7 +2,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.1s">
-                    <a href="index.html" class="d-inline-block mb-3">
+                    <a href="{{ route('home.index') }}" class="d-inline-block mb-3">
                          <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
                     </a>
                     <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi aperiam fuga adipisci 
@@ -13,8 +13,8 @@
                 
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.5s">
                     <h5 class="text-white mb-4">Quick Link</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
+                    <a class="btn btn-link" href="{{ route('about.index') }}">About Us</a>
+                    <a class="btn btn-link" href="{{ route('contact.index') }}">Contact Us</a>
                     <a class="btn btn-link" href="">Blogs</a>
                     <a class="btn btn-link" href="">Privacy Policy</a>
                     <a class="btn btn-link" href="">Terms & Condition</a>
@@ -23,11 +23,11 @@
                 </div>
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.7s">
                     <h5 class="text-white mb-4">Our Services</h5>
-                    <a class="btn btn-link" href="">Web Design & Development</a>
-                    <a class="btn btn-link" href="">Digital Marketing</a>
-                    <a class="btn btn-link" href="">Project Planning</a>
-                    <a class="btn btn-link" href="">Software</a>
-                    <a class="btn btn-link" href="">Cloud Telephony</a>
+                    <a class="btn btn-link" href="{{ route('services.web-dev.index') }}">Web Design & Development</a>
+                    <a class="btn btn-link" href="{{ route('services.seo.index') }}">Digital Marketing</a>
+                    <a class="btn btn-link" href="{{ route('services.graphic-design.index') }}">Graphic Design</a>
+                    <a class="btn btn-link" href="{{ route('services.social-media.index') }}">Social Media</a>
+                    <a class="btn btn-link" href="{{ route('services.email-campaign.index') }}">Email Campaign</a>
                 </div>
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.3s">
                     <h5 class="text-white mb-4">Get In Touch</h5>
@@ -60,9 +60,9 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="footer-menu">
-                            <a href="">Home</a>
-                            <a href="">Contact</a>
-                            <a href="">Help</a>
+                            <a href="{{ route('home.index') }}">Home</a>
+                            <a href="{{ route('contact.index') }}">Contact</a>
+                            <a href="{{ route('contact.index') }}">Help</a>
                             <a href="">FAQs</a>
                         </div>
                     </div>
