@@ -2,5 +2,5 @@
 
 
 @section('content')
-    {{-- @include('frontend.pages.contect.sections.banner') --}}
+    @include('frontend.pages.contect.sections.banner')
 @endsection
