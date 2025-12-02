@@ -45,9 +45,11 @@
                 </div>
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.3s">
                     <h5 class="text-white mb-4">Get In Touch</h5>
-                    <p class="text-white"><i class="fa fa-map-marker-alt me-3"></i>Patna, Bihar, India (800001)</p>
-                    <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+91 1234567890</p>
-                    <p class="text-white"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p class="text-white"><i class="fa fa-map-marker-alt me-3"></i>
+                        NK Studio Building, 2nd Floor, Opposite Gravity Mall, Kankarbagh Main Road, Patna, Bihar 800020
+                    </p>
+                    <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+91 9155583376</p>
+                    <p class="text-white"><i class="fa fa-envelope me-3"></i>info@clickkartdigital.com</p>
                     
                 </div>
             </div>
