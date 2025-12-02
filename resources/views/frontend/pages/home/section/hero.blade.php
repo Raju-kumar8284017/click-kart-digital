@@ -10,7 +10,7 @@
                 And Delivering Results That Truly Matter.
             </p>
             <div class="hero-buttons d-flex justify-content-center flex-wrap  wow fadeInUp">
-                <a href="#" class="btn btn-contact">Contact Us</a>
+                <a href="{{ route('contact.index') }}" class="btn btn-contact">Contact Us</a>
             </div>
         </div>
 

@@ -8,7 +8,9 @@
 
      @include('frontend.common.why-clickkart')
 
-     @include('frontend.common.award')
+     {{-- @include('frontend.common.award') --}}
+
+     @include('frontend.common.certification')
 
      @include('frontend.common.counter')
 
