@@ -5,7 +5,7 @@
 }
 
 :root{
-    --dark:#111826;
+    --dark:#141c2d;
     --color1:#fb98cf;
     --color2:#e04c8f;
     --pink:#fa127a;
@@ -596,9 +596,9 @@ select:focus {
 .footer{
     /* background: url(../img/hero-banner.png); */
     background: var(--dark);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
 }
 
 .footer .btn.btn-link {
@@ -606,13 +606,13 @@ select:focus {
     margin-bottom: 10px;
     padding: 0;
     text-align: left;
-    color: rgba(255,255,255,.5);
+    color: var(--color-white);
     font-weight: normal;
     transition: .3s;
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--color-white);
+    color: var(--color2);
     letter-spacing: 1px;
     box-shadow: none;
 }
@@ -632,11 +632,11 @@ select:focus {
 }
 
 .footer .copyright a {
-    color: rgba(255,255,255,.5);
+    color: var(--color1);
 }
 
 .footer .copyright a:hover {
-    color: var(--bs-white);
+    color: var(--pink);
 }
 
 .footer .footer-menu a {
