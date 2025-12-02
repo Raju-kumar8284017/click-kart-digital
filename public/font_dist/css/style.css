@@ -5,7 +5,7 @@
 }
 
 :root{
-    --dark:#000000;
+    --dark:#111826;
     --color1:#fb98cf;
     --color2:#e04c8f;
     --pink:#fa127a;
@@ -594,7 +594,8 @@ select:focus {
 
 /*** Footer ***/
 .footer{
-    background: url(../img/hero-banner.png);
+    /* background: url(../img/hero-banner.png); */
+    background: var(--dark);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
