@@ -8,10 +8,10 @@
     // Sticky Navbar
     $(window).scroll(function () {
         if ($(this).scrollTop() > 200) {
-            $('.sticky-top').addClass('bg-white shadow-sm').css('top', '0px');
+            // $('.sticky-top').addClass('bg-white shadow-sm').css('top', '0px');
             $('.fa-bars').removeClass('fa-white');
         } else {
-            $('.sticky-top').removeClass('bg-white shadow-sm').css('top', '-150px');
+            // $('.sticky-top').removeClass('bg-white shadow-sm').css('top', '-150px');
             $('.fa-bars').addClass('fa-white');
         }
     });
