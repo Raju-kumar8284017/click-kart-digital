@@ -7,7 +7,7 @@
                         </div>
                         <h4 class="text-white my-3">Happy Clients</h4>
                         <div class="counter-counting">
-                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">300</span>
+                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">100</span>
                             <span class="h1 fw-bold text-white">+</span>
                         </div>
                     </div>
@@ -19,7 +19,7 @@
                         </div>
                         <h4 class="text-white my-3">Our Projects</h4>
                         <div class="counter-counting">
-                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">100</span>
+                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">150</span>
                             <span class="h1 fw-bold text-white">+</span>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                         </div>
                         <h4 class="text-white my-3">Years Experiance</h4>
                         <div class="counter-counting">
-                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">5</span>
+                            <span class="text-white fs-2 fw-bold" data-toggle="counter-up">3</span>
                             <span class="h1 fw-bold text-white">+</span>
                         </div>
                     </div>
