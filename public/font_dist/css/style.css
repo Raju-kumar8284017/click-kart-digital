@@ -69,6 +69,47 @@
     animation: head 4s ease-in-out infinite;
 }
 
+/* Extra Large Screens (Desktops 1400px+) */
+@media (min-width: 1400px) {
+    .text-head {
+        font-size: 60px;
+    }
+}
+
+/* Large Screens (Desktops 1200px - 1399px) */
+@media (max-width: 1399px) {
+    .text-head {
+        font-size: 50px;
+    }
+}
+
+/* Medium Screens (Tablets 992px - 1199px) */
+@media (max-width: 1199px) {
+    .text-head {
+        font-size: 42px;
+    }
+}
+
+/* Small Screens (Landscape phones 768px - 991px) */
+@media (max-width: 991px) {
+    .text-head {
+        font-size: 36px;
+    }
+}
+
+/* Extra Small Screens (Mobile phones 576px - 767px) */
+@media (max-width: 767px) {
+    .text-head {
+        font-size: 30px;
+    }
+}
+
+/* Very Small Screens (Small phones < 575px) */
+@media (max-width: 575px) {
+    .text-head {
+        font-size: 26px;
+    }
+}
   
 @keyframes head {
     0% {
