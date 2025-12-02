@@ -279,7 +279,7 @@ select:focus {
 }
 
 .footer-logo{
-    height: 180px;
+    /* height: 180px; */
     width: auto;
 }
 
