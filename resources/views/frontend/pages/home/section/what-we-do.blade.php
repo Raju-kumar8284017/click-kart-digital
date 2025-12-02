@@ -16,7 +16,9 @@
                                 <i class="fas fa-chart-line text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">SEO Marketing</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="my-3">Strengthen your brand through the best digital marketing agency in Patna & Katihar 
+                                and strategic campaigns designed to maximize online visibility and engagement.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -38,7 +40,7 @@
                                 <i class="fas fa-code text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">Web & Mobile Designing</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="my-3">Crafting visually appealing, user-friendly interfaces that deliver seamless experiences across all devices.</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +51,7 @@
                                 <i class="fas fa-mobile-alt text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">Mobile Apps Development</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="my-3">Create innovative and easy-to-use mobile applications that turn ideas into powerful digital experiences.</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +64,7 @@
                                 <i class="fas fa-search text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">CMS Development</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="my-3">Build flexible, easy-to-manage content systems that help you update your website effortlessly.</p>
                         </div>
                     </div>
                 </div>
@@ -84,7 +86,7 @@
                                 <i class="fas fa-database text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">CRM Development</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="my-3">Build smart systems that manage customer relationships, boost productivity, and streamline business processes.</p>
                         </div>
                     </div>
                 </div>
@@ -94,8 +96,10 @@
                             <div class="we-do-icon mb-3">
                                 <i class="fas fa-shopping-cart text-white fa-3x"></i>
                             </div>
-                            <p class="we-do-title">Ecommerce Web Development</p>
-                            <p class="my-3">Boost Rankings, Drive Traffic, And Grow With Expert SEO Services.</p>
+                            <p class="we-do-title">E-commerce</p>
+                            <p class="my-3">It provides a robust platform that enables unlimited online transactions and 
+                                drives business growth.
+                            </p>
                         </div>
                     </div>
                 </div>
