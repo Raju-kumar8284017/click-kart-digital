@@ -274,8 +274,7 @@ select:focus {
 }
 
 .header-logo{
-    max-width: 100px;   
-    height: auto;
+    max-width: 70px;   
 }
 
 .footer-logo{
