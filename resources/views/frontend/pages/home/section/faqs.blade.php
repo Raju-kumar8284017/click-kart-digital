@@ -1,7 +1,7 @@
 <div class="container-fluid section-bootom">
     <div class="container">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-            <h1 class="text-uppercase text-head pt-5">Frequently Asked Questions (FAQs)</h1>
+            <h1 class="text-uppercase text-head pt-5">FAQs</h1>
             <p class="sub-head mb-3">
                 Find answers to the most common questions about our services, process, and company.
             </p>
@@ -11,47 +11,31 @@
             <div class="col-md-6 my-2 wow fadeInUp" data-wow-delay="0.4s">
                 <p class="sub-head mb-1 text-uppercase">Got More Questions?</p>
                 <h1 class="text-head head-sm pt-1">
-                    Discover Your Ideal Solution – <br> We're Here To Help!
+                    Discover your ideal solution – we're here to help!
                 </h1>
                 <p class="mb-4">
-                    If you can't find the answer to your question here, feel free to reach out directly. Our experts are ready to help you every step of the way to ensure your goals are achieved.
+                    Discover the perfect solution for your operations with ClickKart, the best SEO company that 
+                    offers impressive website designs, robust e-commerce platforms, and powerful pay-per-click services. 
+                    We offer solutions designed to produce results. Our team of experts is ready to help you every 
+                    step of the way to ensure that your goals are accurately achieved. Whether you are looking for 
+                    innovative IT services or attractive digital marketing strategies, ClickKart is here to help 
+                    your business flourish. Let us succeed together!
                 </p>
-                <ul class="list-unstyled">
-                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Dedicated support team</li>
-                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Free consultation available</li>
-                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Transparent pricing model</li>
-                </ul>
-                <a href="#contact" class="btn btn-lg text-white mt-3" style="background-color: var(--pink);">Contact Us Now</a>
             </div>
 
             <div class="col-md-6 my-2 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="accordion" id="faqAccordion">
-
-                    <style>
-                        /* Temporary inline style block for demonstration based on your variables */
-                        .accordion-button.custom-pink {
-                            background-color: var(--color2) !important;
-                            color: var(--color-white) !important;
-                            border: none;
-                        }
-                        .accordion-button.custom-pink:not(.collapsed) {
-                             background-color: var(--pink) !important; /* Brighter pink when active */
-                        }
-                        .accordion-body.custom-body {
-                             background-color: #f7f7f7 !important; /* Light background for the answer */
-                             color: var(--dark);
-                        }
-                    </style>
-
                     <div class="accordion-item" style="border: none;">
                         <h2 class="accordion-header">
                             <button class="accordion-button custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseOne" aria-expanded="true" aria-controls="faqCollapseOne">
-                                <i class="fas fa-question-circle me-2"></i> **What services do you offer?**
+                                <i class="fas fa-plus me-2"></i>What services does ClickKart offer as a digital marketing agency?
                             </button>
                         </h2>
                         <div id="faqCollapseOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                             <div class="accordion-body custom-body">
-                                We offer web development, mobile app creation, digital marketing, and cloud solutions, all powered by our data-driven strategies.
+                                As the leading SEO agency in Patna and Katihar, ClickKart provides SEO services, 
+                                pay-per-click services, content marketing, social media management, and IT solutions 
+                                to boost your digital growth.
                             </div>
                         </div>
                     </div>
@@ -59,12 +43,13 @@
                     <div class="accordion-item mt-2" style="border: none;">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseTwo" aria-expanded="false" aria-controls="faqCollapseTwo">
-                                <i class="fas fa-question-circle me-2"></i> **How long does a typical project take?**
+                                <i class="fas fa-plus me-2"></i>How can a good SEO company help my business?
                             </button>
                         </h2>
                         <div id="faqCollapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body custom-body">
-                                Project timelines are highly variable, but standard solutions range from 4 to 8 weeks, with detailed timelines provided after the initial discovery phase.
+                                Our SEO services enhance your website’s search engine rankings, driving organic 
+                                traffic and improving online visibility for long-term success.
                             </div>
                         </div>
                     </div>
@@ -72,12 +57,13 @@
                     <div class="accordion-item mt-2" style="border: none;">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseThree" aria-expanded="false" aria-controls="faqCollapseThree">
-                                <i class="fas fa-question-circle me-2"></i> **Can you handle maintenance and support?**
+                                <i class="fas fa-plus me-2"></i>What is pay-per-click, and how does it work?
                             </button>
                         </h2>
                         <div id="faqCollapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body custom-body">
-                                Yes, we offer comprehensive post-launch maintenance, security updates, and dedicated technical support packages to keep your platform running optimally.
+                                Pay-per-click services involve creating ads where you only pay when users click. 
+                                It’s a cost-effective way to generate leads.
                             </div>
                         </div>
                     </div>
@@ -85,12 +71,27 @@
                     <div class="accordion-item mt-2" style="border: none;">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFour" aria-expanded="false" aria-controls="faqCollapseFour">
-                                <i class="fas fa-question-circle me-2"></i> **What is your philosophy on client collaboration?**
+                                <i class="fas fa-plus me-2"></i>Why should I choose ClickKart for digital marketing?
                             </button>
                         </h2>
                         <div id="faqCollapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body custom-body">
-                                We believe in full transparency and partnership, working closely with your team through agile methodologies to ensure the final product perfectly aligns with your vision.
+                                As a trusted digital marketing company, ClickKart offers data-driven strategies, 
+                                expert support, and proven results to elevate your brand.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item mt-2" style="border: none;">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFive" aria-expanded="false" aria-controls="faqCollapseFive">
+                                <i class="fas fa-plus me-2"></i>Can ClickKart handle both IT and digital marketing needs?
+                            </button>
+                        </h2>
+                        <div id="faqCollapseFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body custom-body">
+                                Yes! ClickKart specializes in IT services and works as a comprehensive digital 
+                                marketing agency, offering tailored solutions for your business goals.
                             </div>
                         </div>
                     </div>

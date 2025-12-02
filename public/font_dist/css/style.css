@@ -774,3 +774,17 @@ select:focus {
     50% { transform: translateY(-5px); }
     100% { transform: translateY(0); }
 }
+
+/* ================faqs================= */
+.accordion-button.custom-pink {
+    background-color: var(--color2) !important;
+    color: var(--color-white) !important;
+    border: none;
+}
+.accordion-button.custom-pink:not(.collapsed) {
+    background-color: var(--pink) !important; 
+}
+.accordion-body.custom-body {
+    background-color: #f7f7f7 !important; 
+    color: var(--dark);
+}
