@@ -271,11 +271,11 @@ select:focus {
 
 .header-logo{
     height: 60px;
-    width: auto;
+    width: 100%;
 }
 
 .footer-logo{
-    height: 200px;
+    height: 150px;
     width: auto;
 }
 
