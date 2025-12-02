@@ -595,7 +595,7 @@ select:focus {
 /*** Footer ***/
 .footer{
     /* background: url(../img/hero-banner.png); */
-    background: var(--dark);
+    background: var(--dark) !important;
     /* background-repeat: no-repeat;
     background-size: cover;
     background-position: center; */
