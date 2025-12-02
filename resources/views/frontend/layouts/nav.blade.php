@@ -2,7 +2,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light border-bottom border-2 border-white">
                 <a href="{{ route('home.index') }}" class="navbar-brand">
-                    <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
+                    <img src="{{ asset('font_dist/img/logo.png') }}" class="header-logo" alt="clock kart digital logo">
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
