@@ -577,7 +577,7 @@ select:focus {
 
 /* elevate brand end*/
 
-/* testemonial*/
+/*============== testemonial ============*/
 .swiper {
       width: 100%;
       padding-top: 20px;
@@ -626,7 +626,74 @@ select:focus {
         width: 100%;
     }
 
-/*testomonial*/
+    @media (max-width: 991.98px) {
+    .swiper-slide {
+            width: 350px; 
+            height: 250px; 
+        }
+
+        .avtar-box {
+            height: 60px;
+            width: 60px;
+            margin: 10px;
+        }
+        
+        .avtar-title .avtarname {
+            font-size: 1rem;
+        }
+
+        .avtar-title .avtar-degination {
+            font-size: 0.85rem;
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        .swiper-slide {
+            width: 90%; 
+            height: 320px; 
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .swiper-card {
+            padding: 10px;
+        }
+
+        .avtar-box {
+            height: 70px;
+            width: 70px;
+            margin: 10px;
+        }
+
+        .avtar-title .avtarname {
+            font-size: 1.1rem;
+        }
+
+        .avtar-title .avtar-degination {
+            font-size: 0.9rem;
+        }
+
+        .swiper-card p {
+            font-size: 0.95rem;
+            padding: 8px !important;
+        }
+    }
+
+    /* Optional: Very small screens like older phones */
+    @media (max-width: 575.98px) {
+        .swiper-slide {
+            width: 95%; 
+            height: 300px; 
+        }
+        
+        .avtar-box {
+            height: 55px;
+            width: 55px;
+            margin: 8px;
+        }
+    }
+
+/*==============end testomonial==============*/
 
 /*get in touch */
  .call-link{
