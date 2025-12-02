@@ -1,77 +1,99 @@
 <div class="container-fluid section-bootom">
     <div class="container">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h1 class="text-uppercase text-head pt-5">Frequently Asked Questions (FAQs)</h1>
+            <p class="sub-head mb-3">
+                Find answers to the most common questions about our services, process, and company.
+            </p>
+        </div>
+
         <div class="row">
-
             <div class="col-md-6 my-2 wow fadeInUp" data-wow-delay="0.4s">
-                <p class="sub-head mb-1 text-uppercase">What Our Clients Say</p>
-                <h1 class="text-head head-sm pt-1 mb-4">
-                    Trusted by Industry <br> Leaders Globally
+                <p class="sub-head mb-1 text-uppercase">Got More Questions?</p>
+                <h1 class="text-head head-sm pt-1">
+                    Discover Your Ideal Solution – <br> We're Here To Help!
                 </h1>
-                <div class="accordion" id="testimonialAccordion">
-                    
-                    <div class="accordion-item" style="border: none;">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#testimonialCollapseOne" aria-expanded="true" aria-controls="testimonialCollapseOne" style="background-color: #5d3f9e; color: white;">
-                                <i class="fas fa-quote-left me-2"></i> **"A game-changer for our digital growth."**
-                            </button>
-                        </h2>
-                        <div id="testimonialCollapseOne" class="accordion-collapse collapse show" data-bs-parent="#testimonialAccordion">
-                            <div class="accordion-body" style="background-color: #f7f7f7;">
-                                "The team delivered an outstanding platform that exceeded all our expectations. Their data-driven approach truly made a difference in our market penetration."
-                                <p class="mt-2 mb-0">**— Jane Doe, CEO of TechCorp**</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="accordion-item mt-2" style="border: none;">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#testimonialCollapseTwo" aria-expanded="false" aria-controls="testimonialCollapseTwo" style="background-color: #a06ac2; color: white;">
-                                <i class="fas fa-quote-left me-2"></i> **"Exceptional support and rapid results."**
-                            </button>
-                        </h2>
-                        <div id="testimonialCollapseTwo" class="accordion-collapse collapse" data-bs-parent="#testimonialAccordion">
-                            <div class="accordion-body" style="background-color: #f7f7f7;">
-                                "We relied heavily on their 24/7 support during our critical launch phase. The quality and speed of their service are unmatched."
-                                <p class="mt-2 mb-0">**— Mark Smith, Director of Operations**</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="accordion-item mt-2" style="border: none;">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#testimonialCollapseThree" aria-expanded="false" aria-controls="testimonialCollapseThree" style="background-color: #6a499b; color: white;">
-                                <i class="fas fa-quote-left me-2"></i> **"Scalable design that truly future-proofed us."**
-                            </button>
-                        </h2>
-                        <div id="testimonialCollapseThree" class="accordion-collapse collapse" data-bs-parent="#testimonialAccordion">
-                            <div class="accordion-body" style="background-color: #f7f7f7;">
-                                "Their infrastructure design allowed us to easily integrate new features and handle a 50% increase in traffic without any downtime."
-                                <p class="mt-2 mb-0">**— Lily Chen, CTO of Global Connect**</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <p class="mb-4">
+                    If you can't find the answer to your question here, feel free to reach out directly. Our experts are ready to help you every step of the way to ensure your goals are achieved.
+                </p>
+                <ul class="list-unstyled">
+                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Dedicated support team</li>
+                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Free consultation available</li>
+                    <li class="mb-2" style="color: var(--dark);"><i class="fas fa-check-circle me-2" style="color: var(--pink);"></i> Transparent pricing model</li>
+                </ul>
+                <a href="#contact" class="btn btn-lg text-white mt-3" style="background-color: var(--pink);">Contact Us Now</a>
             </div>
 
             <div class="col-md-6 my-2 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="p-5" style="background-color: #f7f7f7; height: 100%;">
-                    <h2 class="text-head pt-3">
-                        Ready to Join Our Success Stories?
-                    </h2>
-                    <p class="sub-head mb-4">
-                        We are ready to tackle your most complex challenges and turn your business goals into tangible achievements.
-                    </p>
+                <div class="accordion" id="faqAccordion">
+
+                    <style>
+                        /* Temporary inline style block for demonstration based on your variables */
+                        .accordion-button.custom-pink {
+                            background-color: var(--color2) !important;
+                            color: var(--color-white) !important;
+                            border: none;
+                        }
+                        .accordion-button.custom-pink:not(.collapsed) {
+                             background-color: var(--pink) !important; /* Brighter pink when active */
+                        }
+                        .accordion-body.custom-body {
+                             background-color: #f7f7f7 !important; /* Light background for the answer */
+                             color: var(--dark);
+                        }
+                    </style>
+
+                    <div class="accordion-item" style="border: none;">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseOne" aria-expanded="true" aria-controls="faqCollapseOne">
+                                <i class="fas fa-question-circle me-2"></i> **What services do you offer?**
+                            </button>
+                        </h2>
+                        <div id="faqCollapseOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body custom-body">
+                                We offer web development, mobile app creation, digital marketing, and cloud solutions, all powered by our data-driven strategies.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item mt-2" style="border: none;">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseTwo" aria-expanded="false" aria-controls="faqCollapseTwo">
+                                <i class="fas fa-question-circle me-2"></i> **How long does a typical project take?**
+                            </button>
+                        </h2>
+                        <div id="faqCollapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body custom-body">
+                                Project timelines are highly variable, but standard solutions range from 4 to 8 weeks, with detailed timelines provided after the initial discovery phase.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item mt-2" style="border: none;">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseThree" aria-expanded="false" aria-controls="faqCollapseThree">
+                                <i class="fas fa-question-circle me-2"></i> **Can you handle maintenance and support?**
+                            </button>
+                        </h2>
+                        <div id="faqCollapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body custom-body">
+                                Yes, we offer comprehensive post-launch maintenance, security updates, and dedicated technical support packages to keep your platform running optimally.
+                            </div>
+                        </div>
+                    </div>
                     
-                    <ul class="list-unstyled">
-                        <li class="mb-3"><i class="fas fa-check-circle me-2" style="color: #5d3f9e;"></i> **Guaranteed ROI Focus**</li>
-                        <li class="mb-3"><i class="fas fa-check-circle me-2" style="color: #5d3f9e;"></i> **Dedicated Account Manager**</li>
-                        <li class="mb-3"><i class="fas fa-check-circle me-2" style="color: #5d3f9e;"></i> **Transparent Reporting & Metrics**</li>
-                    </ul>
-                    
-                    <a href="#contact" class="btn btn-lg text-white mt-4" style="background-color: #5d3f9e;">
-                        Get a Free Consultation
-                        <i class="fas fa-arrow-right ms-2"></i>
-                    </a>
+                    <div class="accordion-item mt-2" style="border: none;">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed custom-pink" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFour" aria-expanded="false" aria-controls="faqCollapseFour">
+                                <i class="fas fa-question-circle me-2"></i> **What is your philosophy on client collaboration?**
+                            </button>
+                        </h2>
+                        <div id="faqCollapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body custom-body">
+                                We believe in full transparency and partnership, working closely with your team through agile methodologies to ensure the final product perfectly aligns with your vision.
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
