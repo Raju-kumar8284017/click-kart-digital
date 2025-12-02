@@ -270,7 +270,8 @@ select:focus {
 }
 
 .logo{
-    height: 55px;
+    /* height: 55px; */
+    width: 200px;
 }
 
 .navbar-nav{
