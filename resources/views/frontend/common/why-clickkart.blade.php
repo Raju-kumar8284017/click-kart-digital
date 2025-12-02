@@ -2,7 +2,7 @@
 <div class="container-fluid section-top">
     <div class="container">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s">
-            <h1 class="text-uppercase text-head pt-5">Why Click Kart</h1>
+            <h1 class="text-uppercase text-head pt-5">Why Click Kart Digital</h1>
             <p class="sub-head mb-3">
                 Driving Results With Data-Driven Strategies, Creative Content, And Unmatched Expertise To Grow Your Brand Fast.
             </p>
@@ -23,7 +23,9 @@
                                 <div class="row">
                                     <div class="col my-2">
                                         <h3 style="font-weight: bold;">Expert Team</h3>
-                                        <p>Our Expert Team Keeps You Updated On Trends And Delivers Innovative Web, Design, And Marketing Solutions.</p>
+                                        <p>Our highly dedicated team of web developers, designers, and digital marketing experts keep you 
+                                            updated on industry trends to provide innovative solutions.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +44,9 @@
                                 <div class="row">
                                     <div class="col my-2">
                                         <h3 style="font-weight: bold;">Data-Driven Strategy</h3>
-                                        <p>We Use Data-Driven Insights To Create Precise Campaigns That Align With Your Goals And Deliver Results.</p>
+                                        <p>We use data and analytics to support campaigns that deliver measurable results. Our focus on precision ensures 
+                                            that every decision is aligned with your business goals.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
