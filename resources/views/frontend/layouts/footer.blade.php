@@ -5,7 +5,7 @@
                     <a href="{{ route('home.index') }}" class="d-inline-block mb-3">
                          <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
                     </a>
-                    <p class="mb-0 text-white">From website design to full-scale digital marketing, 
+                    <p class="mb-3 text-white">From website design to full-scale digital marketing, 
                         Click Kart Digital helps brands grow, perform, and stand out in the digital world. 
                     </p>
 
