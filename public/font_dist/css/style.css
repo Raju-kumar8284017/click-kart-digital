@@ -274,13 +274,12 @@ select:focus {
 }
 
 .header-logo{
-    max-width: 100px;  
-    height: auto; 
+    max-width: 100px;   
 }
 
 .footer-logo{
-    max-width: 100px;  
-    height: auto;     
+    height: 70px;
+    width: auto;    
 }
 
 
