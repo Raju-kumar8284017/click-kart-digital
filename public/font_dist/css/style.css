@@ -274,11 +274,13 @@ select:focus {
 }
 
 .header-logo{
-    height: 100px;
+    height: 70px;
+    width: auto;
 }
 
 .footer-logo{
-    height: 100px;
+    height: 70px;
+    width: auto;    
 }
 
 
