@@ -14,9 +14,9 @@
                     <div class="item"><img src="{{ asset('font_dist/img/Certification/11th.jpg') }}" alt="Slide 2"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/Certification/12th.jpg') }}" alt="Slide 3"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/Certification/13th.jpg') }}" alt="Slide 4"></div>
-                    <div class="item"><img src="{{ asset('font_dist/img/Certification/15th.jpg') }}" alt="Slide 5"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/Certification/14th.jpg') }}" alt="Slide 5"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/Certification/15th.jpg') }}" alt="Slide 5"></div>
+                    <div class="item"><img src="{{ asset('font_dist/img/Certification/16th.jpg') }}" alt="Slide 5"></div>
                 </div>
             </div>
         </div>
