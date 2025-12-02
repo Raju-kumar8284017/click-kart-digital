@@ -70,7 +70,9 @@
                                 <i class="fas fa-search text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">CMS Development</p>
-                            <p class="my-3">Build flexible, easy-to-manage content systems that help you update your website effortlessly.</p>
+                            <p class="my-3">Simplify your content management with CMS Development services that offer flexible, 
+                                user-friendly, and scalable solutions for seamless website updates.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -80,8 +82,10 @@
                             <div class="we-do-icon mb-3">
                                 <i class="fas fa-mobile text-white fa-3x"></i>
                             </div>
-                            <p class="we-do-title">Front-End Development</p>
-                            <p class="my-3">Custom, Responsive, Fast, Secure Websites</p>
+                            <p class="we-do-title">Election Campaign</p>
+                            <p class="my-3">Strengthen your political presence with strategic Election Campaign solutions designed to boost visibility,
+                                 engage voters, and communicate your message effectively.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -92,7 +96,10 @@
                                 <i class="fas fa-database text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">CRM Development</p>
-                            <p class="my-3">Build smart systems that manage customer relationships, boost productivity, and streamline business processes.</p>
+                            <p class="my-3">
+                                Enhance your business operations with CRM Development solutions that streamline customer management,
+                                 improve communication, and boost overall productivity.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -103,8 +110,8 @@
                                 <i class="fas fa-shopping-cart text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">E-commerce</p>
-                            <p class="my-3">It provides a robust platform that enables unlimited online transactions and 
-                                drives business growth.
+                            <p class="my-3">It provides a robust platform that enables unlimited online transactions, 
+                                drives business growth, and delivers seamless shopping experiences for your customers across all devices.
                             </p>
                         </div>
                     </div>
