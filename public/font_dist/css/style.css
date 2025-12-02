@@ -791,5 +791,5 @@ select:focus {
 
 .accordion-button.custom-pink::after {
     /* Inverts the color of the default SVG icon to force it to WHITE */
-    filter: invert(100%); 
+    filter: invert(500%); 
 }
