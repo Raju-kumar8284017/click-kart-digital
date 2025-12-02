@@ -3,7 +3,7 @@
             <div class="row g-5">
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.1s">
                     <a href="{{ route('home.index') }}" class="d-inline-block mb-3">
-                         <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
+                         <img src="{{ asset('font_dist/img/logo.png') }}" class="footer-logo" alt="">
                     </a>
                     <p class="mb-5 text-white">From website design to full-scale digital marketing, 
                         Click Kart Digital helps brands grow, perform, and stand out in the digital world. 
