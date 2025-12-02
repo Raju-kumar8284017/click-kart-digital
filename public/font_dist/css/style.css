@@ -13,7 +13,7 @@
     --color-white: #fff;
     --mainColor:linear-gradient(90deg,rgba(255, 255, 255, 1) 0%, rgba(255, 131, 199, 1) 50%, rgba(235, 30, 121, 1) 100%);
     --headColor:linear-gradient(310deg,rgb(97, 89, 89) 0%, rgb(250, 108, 186) 50%, rgba(235, 30, 121, 1) 100%);
-    --grediant:linear-gradient(180deg,rgba(33, 45, 64, 0.9) 60%, rgb(218, 143, 175));
+    --grediant:linear-gradient(180deg,rgba(26, 34, 48, 0.9) 60%, rgb(218, 143, 175));
 }
 
 .bg-dark{
