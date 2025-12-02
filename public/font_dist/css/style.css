@@ -271,7 +271,7 @@ select:focus {
 
 .logo{
     /* height: 55px; */
-    width: 1000px;
+    width: 200px !important;
 }
 
 .navbar-nav{
