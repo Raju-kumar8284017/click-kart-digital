@@ -274,12 +274,12 @@ select:focus {
 }
 
 .header-logo{
-    max-width: 250px;  
+    max-width: 150px;  
     height: auto; 
 }
 
 .footer-logo{
-    max-width: 250px;  
+    max-width: 150px;  
     height: auto;     
 }
 
