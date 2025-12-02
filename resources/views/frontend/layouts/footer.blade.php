@@ -8,6 +8,21 @@
                     <p class="mb-0 text-white">From website design to full-scale digital marketing, 
                         Click Kart Digital helps brands grow, perform, and stand out in the digital world. 
                     </p>
+
+                    <div class="d-flex pt-2">
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.threads.com/@clickkartdigital"><i class="fa-brands fa-threads"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.facebook.com/clickkartdigitala"><i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.instagram.com/clickkartdigital/"><i class="fab fa-instagram"></i>
+                        </a>
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
+                            href="https://www.linkedin.com/company/clickkartdigital"><i class="fab fa-linkedin-in"></i>
+                        </a>
+                    </div>
                 </div>
                 
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.5s">
@@ -33,20 +48,7 @@
                     <p class="text-white"><i class="fa fa-map-marker-alt me-3"></i>Patna, Bihar, India (800001)</p>
                     <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+91 1234567890</p>
                     <p class="text-white"><i class="fa fa-envelope me-3"></i>info@example.com</p>
-                    <div class="d-flex pt-2">
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
-                            href="https://www.threads.com/@clickkartdigital"><i class="fa-brands fa-threads"></i>
-                        </a>
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
-                            href="https://www.facebook.com/clickkartdigitala"><i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
-                            href="https://www.instagram.com/clickkartdigital/"><i class="fab fa-instagram"></i>
-                        </a>
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" 
-                            href="https://www.linkedin.com/company/clickkartdigital"><i class="fab fa-linkedin-in"></i>
-                        </a>
-                    </div>
+                    
                 </div>
             </div>
         </div>
