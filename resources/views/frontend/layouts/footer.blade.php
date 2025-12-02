@@ -5,9 +5,8 @@
                     <a href="{{ route('home.index') }}" class="d-inline-block mb-3">
                          <img src="{{ asset('font_dist/img/logo.png') }}" class="logo" alt="">
                     </a>
-                    <p class="mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi aperiam fuga adipisci 
-                        eos quod quasi? Molestiae atque dolore tempora debitis accusantium dolorum repellendus, blanditiis 
-                        in dignissimos 
+                    <p class="mb-0 text-white">From website design to full-scale digital marketing, 
+                        Click Kart Digital helps brands grow, perform, and stand out in the digital world. 
                     </p>
                 </div>
                 
@@ -31,9 +30,9 @@
                 </div>
                 <div class="col-md-3 wow fadeIn" data-wow-delay="0.3s">
                     <h5 class="text-white mb-4">Get In Touch</h5>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>Patna, Bihar, India (800001)</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+91 1234567890</p>
-                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p class="text-white"><i class="fa fa-map-marker-alt me-3"></i>Patna, Bihar, India (800001)</p>
+                    <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+91 1234567890</p>
+                    <p class="text-white"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-primary btn-square border-2 me-2" 
                             href="https://www.threads.com/@clickkartdigital"><i class="fa-brands fa-threads"></i>
