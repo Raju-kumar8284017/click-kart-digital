@@ -26,7 +26,7 @@
 <!-- Why Click Kart End-->
 
 <!-- Certification -->
-    @include('frontend.common.certification')
+    {{-- @include('frontend.common.certification') --}}
 <!-- Certification End-->
 
 <!-- Testimonial Section -->
@@ -36,6 +36,8 @@
 <!-- Get In Touch Section -->
     @include('frontend.pages.home.section.get-in-tough')
 <!-- Get In Touch Section End-->
+
+    @include('frontend.pages.home.section.faqs')
 
 <!-- Build Future Together Section -->
     @include('frontend.common.future')
