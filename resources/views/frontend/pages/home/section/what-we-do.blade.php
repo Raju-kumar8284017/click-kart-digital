@@ -29,7 +29,9 @@
                                 <i class="fas fa-desktop text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">Website Development</p>
-                            <p class="my-3">Custom, Responsive, Fast, Secure Websites.</p>
+                            <p class="my-3">Enhance your digital presence with expert Website Development services that deliver fast, responsive, 
+                                and engaging platforms built for business growth.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -39,8 +41,10 @@
                             <div class="we-do-icon mb-3">
                                 <i class="fas fa-code text-white fa-3x"></i>
                             </div>
-                            <p class="we-do-title">Web & Mobile Designing</p>
-                            <p class="my-3">Crafting visually appealing, user-friendly interfaces that deliver seamless experiences across all devices.</p>
+                            <p class="we-do-title">Web Design</p>
+                            <p class="my-3">Enhance your brand identity with creative web degine solutions that deliver visually 
+                                appealing, user-friendly, and engaging digital experiences.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -51,7 +55,9 @@
                                 <i class="fas fa-mobile-alt text-white fa-3x"></i>
                             </div>
                             <p class="we-do-title">Mobile Apps Development</p>
-                            <p class="my-3">Create innovative and easy-to-use mobile applications that turn ideas into powerful digital experiences.</p>
+                            <p class="my-3">Empower your business with Mobile Apps Development solutions that deliver seamless 
+                                performance, intuitive interfaces, and enhanced user engagement.
+                            </p>
                         </div>
                     </div>
                 </div>
