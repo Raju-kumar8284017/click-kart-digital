@@ -4,8 +4,7 @@
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
             <h1 class="text-uppercase text-head pt-5">Chosen By Leaders</h1>
             <p class="sub-head mb-3">
-                Clickkart, Patna’s Top Digital Agency, Delivers Innovative IT And Marketing Solutions To Boost 
-                Growth And Establish Your Online Presence.
+                Clickkart Empowers Businesses With Cutting-Edge IT And Marketing Solutions To Drive Success And Online Growth.
             </p>
         </div>
         <div class="row">
