@@ -18,7 +18,7 @@
 <!-- Brand With Click kart End-->
 
 <!-- Award-Winning Digital Marketing Agency -->
-    @include('frontend.common.award')
+    {{-- @include('frontend.common.award') --}}
 <!-- Award-Winning Digital Marketing Agency End-->
 
 <!-- Why Click Kart -->
@@ -26,18 +26,19 @@
 <!-- Why Click Kart End-->
 
 <!-- Certification -->
-    {{-- @include('frontend.common.certification') --}}
+    @include('frontend.common.certification')
 <!-- Certification End-->
 
 <!-- Testimonial Section -->
     @include('frontend.common.testimonial')
 <!-- Testimonial Section End-->
 
+    @include('frontend.pages.home.section.faqs')
+
 <!-- Get In Touch Section -->
     @include('frontend.pages.home.section.get-in-tough')
 <!-- Get In Touch Section End-->
 
-    @include('frontend.pages.home.section.faqs')
 
 <!-- Build Future Together Section -->
     @include('frontend.common.future')
