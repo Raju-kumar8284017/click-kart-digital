@@ -364,8 +364,8 @@ select:focus {
         text-align: center;
         padding: 100px, 20px;
         color: var(--color-white);
-        background: var(--dark) !important;
-        /* background: url(../img/hero-banner.png) top center no-repeat; */
+        /* background: var(--dark) !important; */
+        background: url(../img/hero-banner.png) top center no-repeat;
         background-position: center;
         background-size: cover;
     }
