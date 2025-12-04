@@ -11,7 +11,7 @@
             <div class="col-md-4">
                 <div class="p-4 bg-white shadow-sm rounded text-center h-100">
                     <h5 class="fw-bold mb-3">Basic Plan</h5>
-                    <h2 class="text-primary mb-3">$49 <small>/mo</small></h2>
+                    <h2 class="text-primary mb-3">&#8377; 49 <small>/mo</small></h2>
                     <ul class="list-unstyled text-start mb-3">
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Feature 1</li>
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Feature 2</li>
@@ -25,7 +25,7 @@
             <div class="col-md-4">
                 <div class="p-4 bg-white shadow-sm rounded text-center h-100 border border-primary">
                     <h5 class="fw-bold mb-3">Standard Plan</h5>
-                    <h2 class="text-primary mb-3">$99 <small>/mo</small></h2>
+                    <h2 class="text-primary mb-3">&#8377; 99 <small>/mo</small></h2>
                     <ul class="list-unstyled text-start mb-3">
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Feature 1</li>
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Feature 2</li>
@@ -40,7 +40,7 @@
             <div class="col-md-4">
                 <div class="p-4 bg-white shadow-sm rounded text-center h-100">
                     <h5 class="fw-bold mb-3">Premium Plan</h5>
-                    <h2 class="text-primary mb-3">$199 <small>/mo</small></h2>
+                    <h2 class="text-primary mb-3">&#8377; 199 <small>/mo</small></h2>
                     <ul class="list-unstyled text-start mb-3">
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>All Features</li>
                         <li class="mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Priority Support</li>
