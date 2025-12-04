@@ -1,9 +1,4 @@
 <section class="py-5 bg-light">
-    <div class="text-center mx-auto pb-3 wow fadeInUp" style="max-width: 800px;">
-        <h1 class="text-uppercase text-head pt-5">Challenges We Solve</h1>
-        <p class="sub-head mb-3">Helping restaurants overcome operational and digital growth barriers.</p>
-    </div>
-
     <div class="container py-3">
         <div class="row g-4">
 
@@ -33,12 +28,14 @@
 
         </div>
     </div>
+    
+</section>
 
-    <section class="py-5 bg-light">
+<section class="py-5 bg-light">
     <div class="container">
 
         <div class="text-center mx-auto pb-4" style="max-width: 800px;">
-            <h2 class="text-head">Challenges We Solve</h2>
+            <h2 class="text-head">Challenges & Solutions</h2>
             <p class="sub-head">Helping restaurants overcome operational and digital growth barriers.</p>
         </div>
 
@@ -46,36 +43,29 @@
 
             <div class="col-md-6">
                 <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: High Online Order Volume</h5>
-                    <p><strong>Solution:</strong> Smart automated ordering system with optimized flow handling.</p>
+                    <h5 class="fw-bold">Challenge: Data Security</h5>
+                    <p><strong>Solution:</strong> Multi-layer encryption, secure API integration, and fraud detection systems.</p>
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Slow Order Processing</h5>
-                    <p><strong>Solution:</strong> Faster POS integration and streamlined kitchen order management.</p>
+                    <h5 class="fw-bold">Challenge: Manual Processes</h5>
+                    <p><strong>Solution:</strong> Automated workflows, real-time reporting, digital approvals.</p>
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Poor Customer Engagement</h5>
-                    <p><strong>Solution:</strong> Loyalty programs, automated offers, and personalized marketing tools.</p>
+                    <h5 class="fw-bold">Challenge: Compliance Requirements</h5>
+                    <p><strong>Solution:</strong> RBI, SEBI, IRDAI-ready platforms to ensure regulatory alignment.</p>
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Reservation & Table Management</h5>
-                    <p><strong>Solution:</strong> Easy table scheduling and digital reservation system.</p>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Delivery Tracking Issues</h5>
-                    <p><strong>Solution:</strong> Real-time delivery tracking with rider status updates.</p>
+                    <h5 class="fw-bold">Challenge: Customer Trust</h5>
+                    <p><strong>Solution:</strong> Smooth UX, transparent dashboards, secure transactions.</p>
                 </div>
             </div>
 
@@ -83,4 +73,3 @@
     </div>
 </section>
 
-</section>
