@@ -14,7 +14,7 @@ class FrontServicesController extends Controller
 
     public function emailCampaign()
     {
-        return view('frontend.pages.services.email-campaign.index');
+        return view('frontend.pages.services.email-marketing.index');
     }
 
     public function graphicDesign()

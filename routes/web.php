@@ -19,7 +19,7 @@ Route::post('/contact-us/send', [FrontContactUsController::class, 'send'])->name
 
 Route::prefix('services')->name('services.')->group(function () {
     Route::get('/custom-software', [FrontServicesController::class, 'index'])->name('custom-software.index');
-    Route::get('/email-campaign', [FrontServicesController::class, 'emailCampaign'])->name('email-campaign.index');
+    Route::get('/email-marketing', [FrontServicesController::class, 'emailCampaign'])->name('email-campaign.index');
     Route::get('/graphic-design', [FrontServicesController::class, 'graphicDesign'])->name('graphic-design.index');
     Route::get('/mobile-app', [FrontServicesController::class, 'mobApp'])->name('mobile-app.index');
     Route::get('/seo', [FrontServicesController::class, 'seo'])->name('seo.index');
