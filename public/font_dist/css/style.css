@@ -382,6 +382,7 @@ select:focus {
       font-size: 4.5rem;
       font-weight: 700;
       line-height: 1.2;
+      font-family: "Poppins", sans-serif;
     }
 
     .wave-text {
