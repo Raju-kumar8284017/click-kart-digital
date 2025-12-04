@@ -3,12 +3,14 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Click Kart Digital</title>
+    <title>@yield('meta_title', 'Click Kart Digital')</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="@yield('meta_keywords', 'IT Company, Website Design, Digital Marketing')" name="keywords">
+    <meta content="@yield('meta_description', 'IT Company in Patna')" name="description">
+    <link rel="canonical" href="{{ url()->current() }}">
 
     @include('frontend.layouts.link')
+    @stack('styles')
 </head>
 
 <body>
@@ -32,5 +34,6 @@
     <!-- JavaScript -->
     @include('frontend.layouts.scripts')
 
+    @stack('scripts')
   </body>
 </html>
