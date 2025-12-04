@@ -7,28 +7,76 @@
     <div class="container py-3">
         <div class="row g-4">
 
-            <!-- Challenges -->
+            <!-- Real Estate Challenges -->
             <div class="col-md-6">
-                <h4 class="fw-bold mb-3">Real Estate Challenges</h4>
-                <ul class="list-unstyled">
-                    <li class="mb-2">• Managing multiple property listings efficiently</li>
-                    <li class="mb-2">• Low quality leads and poor follow-up</li>
-                    <li class="mb-2">• Difficulty showcasing properties effectively</li>
-                    <li class="mb-2">• Inefficient marketing & low visibility</li>
-                    <li class="mb-2">• Tracking client interactions manually</li>
-                </ul>
+                <div class="p-4 shadow-sm rounded h-100 bg-white">
+                    <h3 class="fw-bold mb-3 text-danger">Real Estate Challenges</h3>
+
+                    <ul class="list-unstyled mb-0">
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Managing multiple property listings efficiently
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Low-quality leads and inconsistent follow-up
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Difficulty showcasing properties professionally
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Ineffective marketing and limited online visibility
+                        </li>
+
+                        <li class="pb-1">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Manual tracking of client inquiries & communication
+                        </li>
+
+                    </ul>
+                </div>
             </div>
 
-            <!-- Solutions -->
+            <!-- Digital Solutions -->
             <div class="col-md-6">
-                <h4 class="fw-bold mb-3">Our Solutions</h4>
-                <ul class="list-unstyled">
-                    <li class="mb-2">• Centralized property management platform</li>
-                    <li class="mb-2">• Automated lead capture & CRM integration</li>
-                    <li class="mb-2">• Virtual tours & 3D property visualization</li>
-                    <li class="mb-2">• Digital marketing & SEO for properties</li>
-                    <li class="mb-2">• Analytics dashboard for performance tracking</li>
-                </ul>
+                <div class="p-4 shadow-sm rounded h-100 bg-white">
+                    <h3 class="fw-bold mb-3 text-success">Our Digital Solutions</h3>
+
+                    <ul class="list-unstyled mb-0">
+
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Centralized property listing & management system
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Automated lead capturing & integrated CRM
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Virtual tours, 3D walkthroughs & high-quality visuals
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            SEO-driven real estate marketing campaigns
+                        </li>
+
+                        <li class="pb-1">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Real-time analytics dashboard for performance tracking
+                        </li>
+
+                    </ul>
+                </div>
             </div>
 
         </div>
