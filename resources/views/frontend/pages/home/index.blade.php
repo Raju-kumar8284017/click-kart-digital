@@ -9,7 +9,7 @@
 
 @section('content')
 <!-- Hero Section -->
-    {{-- @include('frontend.pages.home.section.hero') --}}
+    @include('frontend.pages.home.section.hero')
 <!-- Hero Section End -->
 
 <!-- What We Do Section -->
