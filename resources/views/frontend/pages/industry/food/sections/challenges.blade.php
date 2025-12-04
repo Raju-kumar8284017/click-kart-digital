@@ -1,71 +1,84 @@
-<section class="py-5 bg-light">
-    <div class="container py-3">
+
+<section class="py-5">
+    <div class="container">
+
+        <!-- Section Heading -->
+        <div class="text-center mx-auto pb-4" style="max-width: 800px;">
+            <h2 class="text-head">Challenges & Our Solutions</h2>
+            <p class="sub-head">
+                Helping restaurants overcome operational and digital growth barriers.
+            </p>
+        </div>
+
         <div class="row g-4">
 
             <!-- Challenges -->
             <div class="col-md-6">
-                <h4 class="fw-bold mb-3">Food & Restaurant Challenges</h4>
-                <ul class="list-unstyled">
-                    <li class="mb-2">• Managing high-volume online orders</li>
-                    <li class="mb-2">• Slow order processing & mismanagement</li>
-                    <li class="mb-2">• Poor customer engagement</li>
-                    <li class="mb-2">• Difficulty handling reservations</li>
-                    <li class="mb-2">• Lack of delivery tracking & status updates</li>
-                </ul>
+                <div class="p-4 shadow-sm rounded h-100">
+                    <h3 class="fw-bold mb-3 text-danger">Food & Restaurant Challenges</h3>
+                    <ul class="list-unstyled">
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Managing high-volume online orders
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Slow order processing & mismanagement
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Poor customer engagement
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Difficulty handling reservations
+                        </li>
+
+                        <li class="pb-3">
+                            <i class="bi bi-x-circle-fill text-danger me-2"></i>
+                            Lack of delivery tracking & status updates
+                        </li>
+
+                    </ul>
+                </div>
             </div>
 
             <!-- Solutions -->
             <div class="col-md-6">
-                <h4 class="fw-bold mb-3">Our Solutions</h4>
-                <ul class="list-unstyled">
-                    <li class="mb-2">• Smart automated online ordering system</li>
-                    <li class="mb-2">• Faster order management & POS integration</li>
-                    <li class="mb-2">• Customer engagement tools & loyalty programs</li>
-                    <li class="mb-2">• Easy table management & scheduling</li>
-                    <li class="mb-2">• Real-time delivery tracking panel</li>
-                </ul>
-            </div>
+                <div class="p-4 shadow-sm rounded h-100">
+                    <h3 class="fw-bold mb-3 text-success">Our Digital Solutions</h3>
+                    <ul class="list-unstyled">
 
-        </div>
-    </div>
-    
-</section>
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Smart automated online ordering system
+                        </li>
 
-<section class="py-5 bg-light">
-    <div class="container">
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Faster order management & POS integration
+                        </li>
 
-        <div class="text-center mx-auto pb-4" style="max-width: 800px;">
-            <h2 class="text-head">Challenges & Solutions</h2>
-            <p class="sub-head">Helping restaurants overcome operational and digital growth barriers.</p>
-        </div>
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Customer engagement tools & loyalty programs
+                        </li>
 
-        <div class="row g-4">
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Easy table management & scheduling
+                        </li>
 
-            <div class="col-md-6">
-                <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Data Security</h5>
-                    <p><strong>Solution:</strong> Multi-layer encryption, secure API integration, and fraud detection systems.</p>
-                </div>
-            </div>
+                        <li class="pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-2"></i>
+                            Real-time delivery tracking panel
+                        </li>
 
-            <div class="col-md-6">
-                <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Manual Processes</h5>
-                    <p><strong>Solution:</strong> Automated workflows, real-time reporting, digital approvals.</p>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Compliance Requirements</h5>
-                    <p><strong>Solution:</strong> RBI, SEBI, IRDAI-ready platforms to ensure regulatory alignment.</p>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="p-4 rounded shadow-sm bg-white">
-                    <h5 class="fw-bold">Challenge: Customer Trust</h5>
-                    <p><strong>Solution:</strong> Smooth UX, transparent dashboards, secure transactions.</p>
+                    </ul>
                 </div>
             </div>
 
