@@ -1,10 +1,10 @@
 @extends('frontend.layouts.master')
 
-@section('meta_title', 'Best digital marketing & Website Designing Company in Patna | Click Kart Digital')
+@section('meta_title', 'Best Digital Marketing Company in Patna | ClickKart Digital')
 
-@section('meta_description', 'Click Kart Digital provides professional website designing, web development, and digital marketing services in Patna.')
+@section('meta_description', 'As the best digital marketing company in Patna, we are committed to help you grow 10X your traffic, leads & sales with proven strategies. 100+ Trusted clients!')
 
-@section('meta_keywords', 'digital marketing in Patna, website development, website design, click kart digital, IT company')
+@section('meta_keywords', 'Digital Marketing Company in Patna, website design company in Patna, software development company in Patna, graphic design company in Patna, social media marketing company in Patna, SEO company in Patna, PPC company in Patna')
 
 
 @section('content')
