@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="@yield('meta_keywords', 'IT Company, Website Design, Digital Marketing')" name="keywords">
     <meta content="@yield('meta_description', 'IT Company in Patna')" name="description">
+    <meta name="google-site-verification" content="fghP33scEyl8kQZNba-7KVTHClaFORIISxL1zBjg6Uk" />
     <link rel="canonical" href="{{ url()->current() }}">
 
     @include('frontend.layouts.link')
