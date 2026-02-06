@@ -6,7 +6,7 @@
 
 @section('meta_keywords', 'Digital Marketing Company in Patna, website design company in Patna, software development company in Patna, graphic design company in Patna, social media marketing company in Patna, SEO company in Patna, PPC company in Patna')
 
-<meta content="fghP33scEyl8kQZNba-7KVTHClaFORIISxL1zBjg6Uk" name="google-site-verification"/>
+
 
 @section('content')
 <!-- Hero Section -->

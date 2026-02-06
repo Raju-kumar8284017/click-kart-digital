@@ -12,6 +12,10 @@
 
     <link rel="canonical" href="{{ url()->current() }}">
 
+     <!-- ✅ GOOGLE VERIFICATION (HERE ONLY) -->
+    <meta name="google-site-verification"
+          content="fghP33scEyl8kQZNba-7KVTHClaFORIISxL1zBjg6Uk">
+
     @include('frontend.layouts.link')
     @stack('styles')
 </head>
