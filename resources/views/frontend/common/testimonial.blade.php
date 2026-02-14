@@ -19,16 +19,14 @@
                                     <img src="{{ asset('font_dist/img/avtar.jpg')}}" class="img-fluid avtar"/>
                                 </div>
                                 <div class="avtar-title">
-                                    <span class="avtarname fw-bolder">Name</span><br>
-                                    <span class="avtar-degination text-secondary">Lorem ipsum dolor sit amet.</span>
+                                    <span class="avtarname fw-bolder">khushboo priya</span><br>
+                                    <span class="avtar-degination text-secondary">Self Employee</span>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
-                                <p class="p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt repellat nesciunt 
-                                    omnis, hic placeat. Sit magnam, repudiandae distinctio obcaecati ea adipisci quos molestias 
-                                    fuga rem illum, ipsa iusto modi. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                <p class="p-2">Clickkart Digital designed our e-commerce website beautifully and optimized it for better visibility. Their SEO services helped us rank higher on Google, and the increase in online orders has been impressive. Highly recommended for anyone looking for reliable website design in Patna.
                                 </p>
                             </div>
                         </div>
