@@ -16,6 +16,9 @@
     <meta name="google-site-verification"
           content="fghP33scEyl8kQZNba-7KVTHClaFORIISxL1zBjg6Uk">
 
+    {{-- bing web master --}}
+    <meta name="msvalidate.01" content="F5B4C58F8D45C78CFBB47F44CCF88BDA" />
+
     @include('frontend.layouts.link')
     @stack('styles')
 </head>
