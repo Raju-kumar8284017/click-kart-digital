@@ -19,6 +19,7 @@
                     <div class="item"><img src="{{ asset('font_dist/img/choosen/7th.jpg') }}" alt="Slide 5"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/choosen/8th.jpg') }}" alt="Slide 5"></div>
                     <div class="item"><img src="{{ asset('font_dist/img/choosen/9th.jpg') }}" alt="Slide 5"></div>
+                    <div class="item"><img src="{{ asset('font_dist/img/choosen/10.jpeg') }}" alt="Slide 5"></div>
                 </div>
             </div>
         </div>
