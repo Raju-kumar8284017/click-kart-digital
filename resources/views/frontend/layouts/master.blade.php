@@ -8,7 +8,15 @@
     <meta content="@yield('meta_keywords', 'IT Company, Website Design, Digital Marketing')" name="keywords">
     <meta content="@yield('meta_description', 'IT Company in Patna')" name="description">
 
-    
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-03583NRXP0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-03583NRXP0');
+  </script>
 
     <link rel="canonical" href="{{ url()->current() }}">
 
