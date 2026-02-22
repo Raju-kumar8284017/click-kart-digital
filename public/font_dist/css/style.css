@@ -498,6 +498,7 @@ select:focus {
     .we-do-item > *:not(.card-overlay) {
         position: relative;
         z-index: 2;
+        color: var(--color-white);
     }
 
     .we-do-item:hover {
