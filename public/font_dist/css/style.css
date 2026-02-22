@@ -494,6 +494,12 @@ select:focus {
         transform: translateY(0);
     }
 
+    /* keep content above overlay */
+    .we-do-item > *:not(.card-overlay) {
+        position: relative;
+        z-index: 2;
+    }
+
     .we-do-item:hover {
         box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     }
