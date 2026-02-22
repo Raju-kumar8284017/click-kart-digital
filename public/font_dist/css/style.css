@@ -494,7 +494,7 @@ select:focus {
         transform: translateY(0);
     }
 
-    .we-do-item:hover .we-do-title{
+    .we-do-item:hover .we-do-title, .we-do-item:hover .we-do-desc {
         color: var(--color-white);
         transition: 0.5s;
     }
