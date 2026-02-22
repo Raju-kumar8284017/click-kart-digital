@@ -19,6 +19,7 @@
                             <p class="my-3">Strengthen your brand through the best digital marketing agency in Patna & Katihar 
                                 and strategic campaigns designed to maximize online visibility and engagement.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
