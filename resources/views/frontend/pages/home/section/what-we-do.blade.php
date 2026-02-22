@@ -33,6 +33,7 @@
                             <p class="my-3">Enhance your digital presence with expert Website Development services that deliver fast, responsive, 
                                 and engaging platforms built for business growth.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -46,6 +47,7 @@
                             <p class="my-3">Enhance your brand identity with creative web degine solutions that deliver visually 
                                 appealing, user-friendly, and engaging digital experiences.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -59,6 +61,7 @@
                             <p class="my-3">Empower your business with Mobile Apps Development solutions that deliver seamless 
                                 performance, intuitive interfaces, and enhanced user engagement.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -74,6 +77,7 @@
                             <p class="my-3">Simplify your content management with CMS Development services that offer flexible, 
                                 user-friendly, and scalable solutions for seamless website updates.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -87,6 +91,7 @@
                             <p class="my-3">Strengthen your political presence with strategic Election Campaign solutions designed to boost visibility,
                                  engage voters, and communicate your message effectively.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -101,6 +106,7 @@
                                 Enhance your business operations with CRM Development solutions that streamline customer management,
                                  improve communication, and boost overall productivity.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>
@@ -114,6 +120,7 @@
                             <p class="my-3">It provides a robust platform that enables unlimited online transactions, 
                                 drives business growth, and delivers seamless shopping experiences for your customers across all devices.
                             </p>
+                            <div class="card-overlay"></div>
                         </div>
                     </div>
                 </div>

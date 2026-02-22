@@ -466,7 +466,7 @@ select:focus {
 
 /*** what we do Start ***/
     .we-do-item {
-        /* position: relative; */
+        position: relative;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -474,14 +474,19 @@ select:focus {
         background: var(--color-white);
         border-radius: 20px;
         transition: 0.5s;
+        overflow: hidden;
     }
 
      .card-overlay{
-        /* position: absolute; */
+        position: absolute;
+        left: 0;
+        bottom: 0;
         width: 100%;
         height: 100%;
         background: rgba(255, 48, 48, 0.5);
+        transform: translateY(100%);
         transition: transform 0.5s ease-in-out;
+        z-index: 1;
     }
     
 
