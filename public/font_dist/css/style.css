@@ -494,11 +494,15 @@ select:focus {
         transform: translateY(0);
     }
 
+    .we-do-item:hover .we-do-title{
+        color: var(--color-white);
+        transition: 0.5s;
+    }
+
     /* keep content above overlay */
     .we-do-item > *:not(.card-overlay) {
         position: relative;
         z-index: 2;
-        color: var(--color-white);
     }
 
     .we-do-item:hover {
